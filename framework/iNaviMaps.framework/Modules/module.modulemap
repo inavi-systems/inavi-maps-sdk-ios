@@ -1,0 +1,6 @@
+framework module iNaviMaps {
+  umbrella header "iNaviMaps.h"
+
+  export *
+  module * { export * }
+}
