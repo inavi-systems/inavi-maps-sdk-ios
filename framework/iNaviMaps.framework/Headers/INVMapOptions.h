@@ -20,28 +20,28 @@ INV_EXPORT
 /**
  축척 바 표출 여부.
  
- 기본값은 `TRUE`입니다.
+ 기본값은 `YES`입니다.
  */
 @property (nonatomic, assign) BOOL showScaleBar;
 
 /**
  나침반 표출 여부.
  
- 기본값은 `TRUE`입니다.
+ 기본값은 `YES`입니다.
  */
 @property(nonatomic, assign) BOOL showCompass;
 
 /**
  줌 컨트롤 표출 여부.
  
- 기본값은 `FALSE`입니다.
+ 기본값은 `NO`입니다.
  */
 @property (nonatomic) BOOL showZoomControl;
 
 /**
  현위치 버튼 표출 여부.
  
- 기본값은 `FALSE`입니다.
+ 기본값은 `NO`입니다.
  */
 @property (nonatomic) BOOL showLocationButton;
 

@@ -1,8 +1,7 @@
 //
 //  INVMapViewDelegate.h
 //
-//  Created by DAECHEOL KIM on 04/07/2019.
-//  Copyright © 2019 iNaviMaps. All rights reserved.
+//  ⓒ 2019. iNavi Systems Corp. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
@@ -15,7 +14,7 @@ NS_ASSUME_NONNULL_BEGIN
 @class INVLatLng;
 
 /**
-`InaviMapView`에 관련된 업데이트 및 비동기 작업의 결과를 알려주는 콜백 메서드가 정의된 프로토콜.
+`InaviMapView`의 비동기 작업 및 속성 변화의 결과를 알려주는 함수가 정의된 프로토콜.
 */
 @protocol INVMapViewDelegate <NSObject>
 
@@ -28,7 +27,7 @@ NS_ASSUME_NONNULL_BEGIN
  지도가 표시하는 영역이 변경될 때 호출되는 콜백 메서드.
 
  @param mapView 영역이 변경될 `InaviMapView` 객체.
- @param animated 애니메이션 효과가 적용돼 움직일 경우 `true`, 그렇지 않을 경우 `false`.
+ @param animated 애니메이션 효과가 적용돼 움직일 경우 `YES`, 그렇지 않을 경우 `NO`.
  @param reason 카메라 변경 이유.
  */
 - (void)mapView:(InaviMapView *)mapView regionWillChangeAnimated:(BOOL)animated reason:(NSInteger)reason;
@@ -45,7 +44,7 @@ NS_ASSUME_NONNULL_BEGIN
  지도가 표시하고 있는 영역이 변경되었을 때 호출되는 콜백 메서드.
 
  @param mapView 영역이 변경된 `INaviMapView` 객체.
- @param animated 애니메이션 효과가 적용돼 움직인 경우 `true`, 그렇지 않은 경우 `false`.
+ @param animated 애니메이션 효과가 적용돼 움직인 경우 `YES`, 그렇지 않은 경우 `NO`.
  @param reason 카메라 변경 이유.
  */
 - (void)mapView:(InaviMapView *)mapView regionDidChangeAnimated:(BOOL)animated reason:(NSInteger)reason;
@@ -73,7 +72,7 @@ NS_ASSUME_NONNULL_BEGIN
 
  @param point 더블 탭한 화면 좌표.
  @param latlng 더블 탭한 위경도 좌표.
- @return `true`일 경우 이벤트를 소비합니다. 그렇지 않을 경우 `InaviMapView`까지 이벤트가 전달됩니다.
+ @return `YES`일 경우 이벤트를 소비합니다. 그렇지 않을 경우 `InaviMapView`까지 이벤트가 전달됩니다.
  */
 - (BOOL)didDoubleTapMapView:(CGPoint)point LatLng:(INVLatLng*)latlng;
 
@@ -85,14 +84,14 @@ NS_ASSUME_NONNULL_BEGIN
  */
 - (void)didLongTapMapView:(CGPoint)point LatLng:(INVLatLng*)latlng;
 
-#pragma mark Tracking User Location
+#pragma mark Responding to User Location
 
 /**
  위치 추적 모드가 변경될 때 호출되는 콜백 메서드.
 
  @param mapView 위치 추적 모드가 적용된 `InaviMapView` 객체.
  @param mode 위치 추적 모드.
- @param animated 애니메이션 효과가 적용돼 움직인 경우 `true`, 그렇지 않은 경우 `false`.
+ @param animated 애니메이션 효과가 적용돼 움직인 경우 `YES`, 그렇지 않은 경우 `NO`.
  */
 - (void)mapView:(InaviMapView *)mapView didChangeUserTrackingMode:(INVUserTrackingMode)mode animated:(BOOL)animated;
 

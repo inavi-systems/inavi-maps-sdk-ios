@@ -26,6 +26,7 @@ FOUNDATION_EXPORT INV_EXPORT const unsigned char iNaviMapsVersionString[];
 #import "INVLatLngBounds.h"
 #import "INVProjection.h"
 #import "INVInfoWindow.h"
+#import "INVLocationIcon.h"
 #import "INVMapViewDelegate.h"
 #import "INVMapSdk.h"
 

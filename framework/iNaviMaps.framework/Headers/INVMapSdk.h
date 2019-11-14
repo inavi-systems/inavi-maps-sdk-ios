@@ -1,9 +1,9 @@
 //
 //  INVMapSdk.h
 //
-//  Created by DAECHEOL KIM on 14/08/2019.
-//  Copyright © 2019 iNaviMaps. All rights reserved.
+//  ⓒ 2019. iNavi Systems Corp. All rights reserved.
 //
+
 #import "INVFoundation.h"
 
 NS_ASSUME_NONNULL_BEGIN
@@ -24,12 +24,12 @@ typedef NS_ENUM(NSInteger, INVErrorCode) {
     INVAuthFailure       = 1,
 
     /**
-     설정된 APP KEY가 유효하지 않음,
+     설정된 Appkey가 유효하지 않음,
      */
-    INVAppKeyInvalid       = 300,
+    INVAppKeyInvalid     = 300,
 
     /**
-     APP KEY 설정되지 않음,
+     Appkey 설정되지 않음,
      */
     INVAppKeyError       = 401,
     /**
@@ -63,14 +63,14 @@ typedef NS_ENUM(NSInteger, INVErrorCode) {
 
 /**
  아이나비 지도 SDK의 인증을 담당하는 클래스.
- 아이나비 지도 SDK를 사용하기 위해서는 아래 중 한 가지 방법으로 App Key 설정을 해주어야 합니다.
+ 아이나비 지도 SDK를 사용하기 위해서는 아래 중 한 가지 방법으로 Appkey 설정을 해주어야 합니다.
  #### 1. `info.plist`에 지정하는 방식
  ### examples
      <dict>
          <key>iNaviAppKey</key>
          <string>YOUR_APP_KEY</string>
      <dict>
- #### 2. Application 생성 시점에 App Key를 설정하는 함수를 동적으로 호출
+ #### 2. Application 생성 시점에 Appkey를 설정하는 함수를 동적으로 호출
  ```swift
  INVMapSdk.sharedInstance().appKey = "YOUR_APP_KEY"
  ```
@@ -84,6 +84,11 @@ INV_EXPORT
  싱글턴 객체 접근
  */
 + (nonnull instancetype)sharedInstance;
+
+/**
+ 지도 캐시 데이터를 삭제합니다.
+ */
+- (void)clearCache;
 
 /**
  지도 인증 실패 시 전달되는 delegate

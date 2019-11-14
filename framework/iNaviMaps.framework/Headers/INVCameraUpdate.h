@@ -1,8 +1,7 @@
 //
 //  INVCameraUpdate.h
 //
-//  Created by DAECHEOL KIM on 28/06/2019.
-//  Copyright © 2019 iNaviMaps. All rights reserved.
+//  ⓒ 2019. iNavi Systems Corp. All rights reserved.
 //
 
 #import <CoreGraphics/CoreGraphics.h>
@@ -82,27 +81,27 @@ INV_EXPORT
 
 
 /**
- 카메라 이동 시 적용할 애니메이션 타입을 설정합니다.
+ 카메라 이동 시 적용할 애니메이션 타입.
  @see `INVCameraUpdateAnimation`
  */
 @property (nonatomic) INVCameraUpdateAnimation animation;
 
 /**
- 카메라 이동 시 적용할 애니메이션 지속시간을 설정합니다. (초 단위)
+ 카메라 이동 시 적용할 애니메이션 지속시간. (초 단위)
  
  기본값은 `0.3`입니다.
   */
 @property (nonatomic) NSTimeInterval animationDuration;
 
 /**
- 카메라 이동의 원인을 설정합니다.
+ 카메라 이동의 원인.
  
  기본값은 `INV_CAMERA_UPDATE_REASON_NONE`입니다.
  */
 @property (nonatomic) NSInteger reason;
 
 /**
- 새로운 `INVCameraUpdateParams`를 이용해 이동하는 `INVCameraUpdate` 객체를 생성합니다.
+ `INVCameraUpdateParams`를 이용하여 `INVCameraUpdate` 객체를 생성합니다.
  
  @param params `INVCameraUpdateParams` 객체.
  @return `INVCameraUpdate` 객체.
@@ -110,7 +109,7 @@ INV_EXPORT
 + (instancetype)cameraUpdateWithParams:(INVCameraUpdateParams *)params;
 
 /**
- 새로운 `INVCameraPosition`를 이용해 카메라를 이동하는 `INVCameraUpdate` 객체를 생성합니다.
+ `INVCameraPosition`를 이용하여 `INVCameraUpdate` 객체를 생성합니다.
  
  @param position `INVCameraPosition` 객체.
  @return `INVCameraUpdate` 객체.
@@ -200,7 +199,7 @@ INV_EXPORT
  새로운 `INVLatLngBounds` 범위로 위치와 줌 레벨을 변경하는 `INVCameraUpdate` 객체를 생성합니다.
  
  @param bounds INVLatLngBounds` 객체.
- @param padding 패딩 값. pt 단위.
+ @param padding 패딩 값. (pt 단위)
  @return `INVCameraUpdate` 객체.
  */
 + (instancetype)cameraUpdateWithFitBounds:(INVLatLngBounds *)bounds padding:(CGFloat)padding;
@@ -209,7 +208,7 @@ INV_EXPORT
  새로운 `INVLatLngBounds` 범위로 위치와 줌 레벨을 변경하는 `INVCameraUpdate` 객체를 생성합니다.
  
  @param bounds `INVLatLngBounds` 객체.
- @param paddingInsets 패딩 값. pt 단위.
+ @param paddingInsets 패딩 값. (pt 단위)
  @return `INVCameraUpdate` 객체.
  */
 + (instancetype)cameraUpdateWithFitBounds:(INVLatLngBounds *)bounds paddingInsets:(UIEdgeInsets)paddingInsets;

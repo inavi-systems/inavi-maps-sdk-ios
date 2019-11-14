@@ -1,8 +1,7 @@
 //
 //  INVCameraPosition.h
 //
-//  Created by DAECHEOL KIM on 28/06/2019.
-//  Copyright © 2019 iNaviMaps. All rights reserved.
+//  ⓒ 2019. iNavi Systems Corp. All rights reserved.
 //
 
 #import "INVFoundation.h"

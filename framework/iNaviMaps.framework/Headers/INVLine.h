@@ -1,8 +1,7 @@
 //
 //  INVLine.h
 //
-//  Created by DAECHEOL KIM on 14/08/2019.
-//  Copyright © 2019 iNaviMaps. All rights reserved.
+//  ⓒ 2019. iNavi Systems Corp. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
@@ -20,27 +19,37 @@ INV_EXPORT
 @interface INVLine : NSObject
 
 /**
- 라인의 색상을 설정합니다.
+ 라인의 색상.
  
  기본값은 `UIColor.blackColor`입니다.
  */
 @property (nonatomic, copy) UIColor *color;
 
 /**
- 라인의 좌표열을 설정합니다.
+ 라인의 좌표열.
+ 
  `coords`의 크기는 `2` 이상이어야 합니다.
  */
 @property (nonatomic, copy) NSArray<INVLatLng *> *coords;
 
 /**
- 좌표열을 지정하여 선형 생성합니다.
+ 좌표열을 이용하여 라인 객체를 생성합니다.
+ 
  `coords`의 크기는 `2` 이상이어야 합니다.
+ 
+ @param coords 좌표열.
+ @return `INVLine` 객체.
  */
 + (instancetype)lineWithCoords:(NSArray<INVLatLng *> *)coords;
 
 /**
- 좌표열과 색상을 지정하여 INVLine를 생성합니다.
+ 좌표열과 색상을 이용하여 라인 객체를를 생성합니다.
+ 
  `coords`의 크기는 `2` 이상이어야 합니다.
+ 
+ @param coords 좌표열.
+ @param color 색상.
+ @return `INVLine` 객체.
  */
 + (instancetype)lineWithCoords:(NSArray<INVLatLng *> *)coords color:(UIColor*)color;
 

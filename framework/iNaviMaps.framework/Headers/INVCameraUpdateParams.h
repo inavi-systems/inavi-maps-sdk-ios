@@ -1,9 +1,9 @@
 //
 //  INVCameraUpdateParams.h
 //
-//  Created by DAECHEOL KIM on 28/06/2019.
-//  Copyright © 2019 iNaviMaps. All rights reserved.
+//  ⓒ 2019. iNavi Systems Corp. All rights reserved.
 //
+
 #import <CoreGraphics/CoreGraphics.h>
 #import "INVFoundation.h"
 

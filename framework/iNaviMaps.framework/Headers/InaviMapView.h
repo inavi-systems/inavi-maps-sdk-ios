@@ -1,3 +1,8 @@
+//
+//  InaviMapView.h
+//
+//  ⓒ 2019. iNavi Systems Corp. All rights reserved.
+//
 
 #import <UIKit/UIKit.h>
 
@@ -13,38 +18,40 @@ NS_ASSUME_NONNULL_BEGIN
 @class INVProjection;
 @class INVLatLngBounds;
 @class INVMapOptions;
+@class INVLocationIcon;
 
 @protocol INVMapViewDelegate;
 
 /**
- 위치 추적 모드를 나타내는 열거형.
+ 사용자의 위치 추적 모드를 정의하는 열거형.
  */
 typedef NS_ENUM(NSUInteger, INVUserTrackingMode) {
     
     /**
-     사용자 위치 표시 및 추적을 사용하지 않는 모드.
+     사용자 위치 추적을 사용하지 않는 모드.<br>
+     이전에 기록된 사용자의 위치가 초기화되며, 위치와 베어링이 갱신되지 않습니다.
      */
     INVUserTrackingModeNone = 0,
     
     /**
-     사용자 위치는 표시하지만 카메라를 추적하지 않는 모드.
+     사용자 위치가 추적되지만 카메라는 변경되지 않는 모드.
      */
     INVUserTrackingModeNoTracking,
     
     /**
-     사용자 위치 표시와 카메라의 위치를 추적하는 모드.
+     사용자 위치가 추적되고 그에 따른 카메라의 위치가 변경되는 모드.
      */
     INVUserTrackingModeTracking,
     
     /**
-     사용자 위치 표시와 카메라의 좌표와 베어링을 추적하는 모드.
+     사용자 위치가 추적되고 그에 따른 카메라의 위치와 베어링이 변경되는 모드.
      */
     INVUserTrackingModeTrackingCompass,
 };
 
 /**
- 아이나비 지도 객체를 정의하는 클래스
- 해당 클래스를 이용하여 아이나비 인증 및 아이나비 지도를 사용할 수 있습니다.
+ 아이나비 지도를 정의하는 뷰 클래스.<br>
+ 해당 클래스를 서브 뷰로 추가하여 지도를 표출할 수 있습니다.
  */
 
 INV_EXPORT
@@ -121,28 +128,28 @@ IB_DESIGNABLE
 /**
  축척 바 표출 여부.
  
- 기본값은 `TRUE`입니다.
+ 기본값은 `YES`입니다.
  */
 @property (nonatomic, assign) IBInspectable BOOL showScaleBar;
 
 /**
  나침반 표출 여부.
 
- 기본값은 `TRUE`입니다.
+ 기본값은 `YES`입니다.
  */
 @property(nonatomic, assign) IBInspectable BOOL showCompass;
 
 /**
  줌 컨트롤 표출 여부.
  
- 기본값은 `FALSE`입니다.
+ 기본값은 `NO`입니다.
  */
 @property (nonatomic) IBInspectable BOOL showZoomControl;
 
 /**
  현위치 버튼 표출 여부.
  
- 기본값은 `FALSE`입니다.
+ 기본값은 `NO`입니다.
  */
 @property (nonatomic) IBInspectable BOOL showLocationButton;
 
@@ -155,39 +162,44 @@ IB_DESIGNABLE
  */
 @property (nonatomic, assign) INVUserTrackingMode userTrackingMode;
 
+/**
+ 현위치 아이콘.
+ */
+@property (readonly, strong, nonatomic) INVLocationIcon * _Nonnull locationIcon;
+
 #pragma mark Configuring How the User Interacts with the Map
 
 /**
  지도 줌 제스처 사용 여부를 나타내는 속성.
  
- 기본값은 `TRUE`입니다.
+ 기본값은 `YES`입니다.
  */
 @property(nonatomic, getter=isZoomGesturesEnabled) BOOL zoomGesturesEnabled;
 
 /**
  지도 스크롤 제스처 사용 여부를 나타내는 속성.
  
- 기본값은 `TRUE`입니다.
+ 기본값은 `YES`입니다.
  */
 @property(nonatomic, getter=isScrollGesturesEnabled) BOOL scrollGesturesEnabled;
 
 /**
  지도 회전 제스처 사용 여부를 나타내는 속성.
  
- 기본값은 'TRUE'입니다.
+ 기본값은 `YES`입니다.
  */
 @property(nonatomic, getter=isRotateGesturesEnabled) BOOL rotateGesturesEnabled;
 
 /**
  지도 기울기 제스처 사용 여부를 나타내는 속성.
  
- 기본값은 `TRUE`입니다.
+ 기본값은 `YES`입니다.
  */
 @property(nonatomic, getter=isTiltGesturesEnabled) BOOL tiltGesturesEnabled;
 
 /**
  지도 애니메이션 마찰 계수 입니다.
- 값의 범위는 0~1이며, 계수가 클수록 마찰이 강해집니다.
+ 값의 범위는 `0~1`이며, 계수가 클수록 마찰이 강해집니다.
  
  기본값은 UIScrollViewDecelerationRate의 `UIScrollViewDecelerationRateNormal`입니다.
  */

@@ -1,8 +1,7 @@
 //
 //  INVImage.h
 //
-//  Created by DAECHEOL KIM on 17/06/2019.
-//  Copyright © 2019 iNaviMaps. All rights reserved.
+//  ⓒ 2019. iNavi Systems Corp. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
@@ -12,7 +11,7 @@
 NS_ASSUME_NONNULL_BEGIN
 
 /**
- Shape에서 사용하는 비트맵 이미지를 정의한 클래스.
+ 셰이프에서 사용하는 비트맵 이미지를 정의한 클래스.
  */
 INV_EXPORT
 @interface INVImage : NSObject <NSSecureCoding>
