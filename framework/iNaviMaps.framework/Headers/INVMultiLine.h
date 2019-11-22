@@ -15,9 +15,11 @@ NS_ASSUME_NONNULL_BEGIN
  */
 const static int INV_MULTI_LINE_DEFAULT_GLOBAL_Z_INDEX = -1000;
 
+
 /**
- 지도 위에 다중 선형을 표출하는 셰이프 클래스.
- */
+지도 위에 다중 선형을 표출하는 셰이프 클래스.
+*/
+INV_DEPRECATED_WITH_TEXT("`INVRoute`로 대체됩니다.")
 INV_EXPORT
 @interface INVMultiLine : INVShape
 

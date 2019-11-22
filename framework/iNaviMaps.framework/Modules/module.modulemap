@@ -4,3 +4,8 @@ framework module iNaviMaps {
   export *
   module * { export * }
 }
+
+module iNaviMaps.Swift {
+    header "iNaviMaps-Swift.h"
+    requires objc
+}

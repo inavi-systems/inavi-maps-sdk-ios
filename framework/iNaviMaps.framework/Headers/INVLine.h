@@ -14,8 +14,8 @@ NS_ASSUME_NONNULL_BEGIN
 /**
  다중 선형에서 사용하는 선형의 좌표열과 색상 속성을 정의한 클래스.
  */
-
 INV_EXPORT
+INV_DEPRECATED_WITH_TEXT("`INVRouteLink`로 대체됩니다.")
 @interface INVLine : NSObject
 
 /**

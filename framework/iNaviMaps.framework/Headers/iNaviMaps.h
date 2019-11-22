@@ -15,6 +15,8 @@ FOUNDATION_EXPORT INV_EXPORT const unsigned char iNaviMapsVersionString[];
 #import "INVMarker.h"
 #import "INVImage.h"
 #import "INVPolyline.h"
+#import "INVRouteLink.h"
+#import "INVRoute.h"
 #import "INVMultiLine.h"
 #import "INVLine.h"
 #import "INVPolygon.h"

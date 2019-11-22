@@ -82,9 +82,9 @@ IB_DESIGNABLE
 #pragma mark Accessing the Delegate
 
 /**
- `InaviMapView`의 delegate.
+ `InaviMapView`의 Delegate.
  
- 지도 뷰의 delegate를 이용해 지도의 표출이나, 화면 갱신 여부 등의 메시지를 전달합니다.
+ 지도 뷰의 Delegate를 이용해 지도의 표출이나, 화면 갱신 여부 등의 메시지를 전달합니다.
  */
 
 @property(nonatomic, weak, nullable) IBOutlet id<INVMapViewDelegate> delegate;

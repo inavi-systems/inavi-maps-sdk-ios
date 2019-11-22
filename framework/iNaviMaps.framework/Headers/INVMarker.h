@@ -89,6 +89,21 @@ INV_EXPORT
 @property (nonatomic) BOOL isAllowOverlapTitle;
 
 /**
+ 마커의 아이콘을 지도에 평평하게 표출할지 여부.
+ 
+ 기본값은 `NO`입니다.
+ */
+@property (nonatomic) BOOL isIconFlat;
+
+/**
+ 마커의 타이틀을 지도에 평평하게 표출할지 여부.
+ 
+ 기본값은 `NO`입니다.
+ */
+@property (nonatomic) BOOL isTitleFlat;
+
+
+/**
  마커의 위치 좌표.
  */
 @property (nonatomic, strong) INVLatLng *position;
@@ -109,7 +124,7 @@ INV_EXPORT
 @property (nonatomic, strong) UIColor *titleColor;
 
 /**
- 타이틀의 외곽 색상.
+ 타이틀의 테두리 색상.
  
  기본값은 `UIColor.whiteColor`입니다.
  */
@@ -182,7 +197,6 @@ INV_EXPORT
  @return `INVMarker` 객체.
  */
 +(instancetype)markerWithPosition:(INVLatLng *)position iconImage:(INVImage *)iconImage;
-
 
 
 @end
