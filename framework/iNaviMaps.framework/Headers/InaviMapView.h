@@ -106,6 +106,13 @@ IB_DESIGNABLE
 @property (nonatomic) double maximumZoomLevel;
 
 /**
+ 지도 이동을 제한하는 `INVLatLngBounds` 영역.
+ 
+ `nil` 설정 시 제한이 해제됩니다.
+ */
+@property (nonatomic, nullable) INVLatLngBounds *constraintBounds;
+
+/**
  지도 영역 중심에 대한 카메라 위치.
  */
 @property (nonatomic) INVCameraPosition *cameraPosition;
@@ -196,6 +203,18 @@ IB_DESIGNABLE
  기본값은 `YES`입니다.
  */
 @property(nonatomic, getter=isTiltGesturesEnabled) BOOL tiltGesturesEnabled;
+
+
+/**
+ 로고 클릭 시 SDK 정보 팝업 표출 여부를 나타내는 속성.
+ 
+ 비활성화 시 별도의 페이지에 아이나비 지도 SDK의 오픈 소스 라이선스와 법적 공지를 제공해야 합니다.<br>
+ 기본값은 `YES`입니다.
+ 
+ @see `+[INVMapSdk presentLicenseViewController]`<br>`+[INVMapSdk presentLegalNoticeViewController]`
+ */
+@property(nonatomic, getter=isLogoClickEnabled) BOOL logoClickEnabled;
+
 
 /**
  지도 애니메이션 마찰 계수 입니다.

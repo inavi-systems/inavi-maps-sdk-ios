@@ -34,14 +34,29 @@ INV_EXPORT
  
  @param target 지정할 좌표.
  */
-- (void)scrollTo:(INVLatLng *)target;
+- (void)scrollTo:(INVLatLng *)target INV_DEPRECATED_WITH_TEXT("`targetTo`로 대체됩니다.");
+
+
+/**
+ 카메라를 특정 위치로 이동하도록 설정합니다.
+ 
+ @param target 지정할 좌표.
+ */
+- (void)targetTo:(INVLatLng *)target;
 
 /**
  카메라를 위치를 현위치 기준으로 특정 값 만큼 이동하도록 설정합니다.
  
  @param delta 이동할 거리. pt 단위.
  */
-- (void)scrollBy:(CGPoint)delta;
+- (void)scrollBy:(CGPoint)delta INV_DEPRECATED_WITH_TEXT("`targetBy`로 대체됩니다.");
+
+/**
+ 카메라를 위치를 현위치 기준으로 특정 값 만큼 이동하도록 설정합니다.
+ 
+ @param delta 이동할 거리. pt 단위.
+ */
+- (void)targetBy:(CGPoint)delta;
 
 /**
  카메라의 줌 레벨을 특정 값만큼 변경하도록 설정합니다.

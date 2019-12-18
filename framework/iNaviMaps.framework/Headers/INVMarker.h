@@ -149,6 +149,13 @@ INV_EXPORT
 @property(nonatomic) CGFloat titleMaxWidth;
 
 /**
+ 아이콘과 타이틀 사이의 여백.
+ 
+ 기본값은 `0`입니다.
+ */
+@property (nonatomic) CGFloat titleMargin;
+
+/**
  마커 아이콘의 각도. (도 단위)
  값이 `0`이면 북쪽을 의미하며, 시계 방향으로 값이 증가합니다. `360`의 배수마다 다시 북쪽이 됩니다.
  

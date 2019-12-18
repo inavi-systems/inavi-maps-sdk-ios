@@ -6,6 +6,8 @@
 
 #import "INVFoundation.h"
 
+@class UIViewController;
+
 NS_ASSUME_NONNULL_BEGIN
 
 typedef NS_ENUM(NSInteger, INVErrorCode) {
@@ -89,6 +91,16 @@ INV_EXPORT
  지도 캐시 데이터를 삭제합니다.
  */
 - (void)clearCache;
+
+/**
+ 오픈 소스 라이선스 `UIViewController`를 표출합니다.
+*/
++ (void)presentLicenseViewController;
+
+/**
+ 법적 공지 `UIViewController`를 표출합니다.
+*/
++ (void)presentLegalNoticeViewController;
 
 /**
  지도 인증 실패 시 전달되는 delegate

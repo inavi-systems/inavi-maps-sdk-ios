@@ -18,21 +18,21 @@ INV_EXPORT
 /**
  위도 (도 단위)
  */
-@property (nonatomic) double lat;
+@property (nonatomic, readonly) double lat;
 
 /**
  경도 (도 단위)
  */
-@property (nonatomic) double lng;
+@property (nonatomic, readonly) double lng;
 
 /**
- 위도, 경도로  Coordinate 객체를 생성합니다.
+ 위도, 경도로  `INVLatLng` 객체를 생성합니다.
  
  @param lat 위도.
  @param lng 경도.
- @return INVLatLng 객체.
+ @return `INVLatLng` 객체.
  */
-+ (nonnull instancetype)latLngWithLat:(double)lat lng:(double)lng;
++ (instancetype)latLngWithLat:(double)lat lng:(double)lng;
 
 @end
 
