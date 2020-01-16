@@ -72,6 +72,12 @@ INV_EXPORT
  */
 @property (nonatomic, strong) NSString *title;
 
+/**
+마커의 표출 상태가 변경될 때 애니메이션을 적용할지 여부.
+
+기본값은 `NO`입니다.
+*/
+@property (nonatomic) BOOL isTransitionEnabled;
 
 /**
  상위 다른 마커와 마커 겹침을 허용할지 여부.
@@ -177,7 +183,7 @@ INV_EXPORT
 /**
  마커에 표출되고 있는 'INVInfoWindow' 객체.
  */
-@property (nonatomic, strong, readonly) INVInfoWindow *infoWindow;
+@property (nonatomic, strong, readonly, nullable) INVInfoWindow *infoWindow;
 
 
 /**
