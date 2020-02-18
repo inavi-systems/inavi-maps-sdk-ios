@@ -1,7 +1,7 @@
 //
 //  INVRoute.h
 //
-//  ⓒ 2019. iNavi Systems Corp. All rights reserved.
+//  ⓒ 2019-2020. iNavi Systems Corp. All rights reserved.
 //
 
 #import "INVShape.h"
@@ -37,14 +37,14 @@ INV_EXPORT
 /**
  경로의 두께. (pt 단위)
  
- 기본값은 `7`입니다.
+ 기본값은 `5`입니다.
  */
 @property (nonatomic) CGFloat lineWidth;
 
 /**
  경로의 테두리 두께. (pt 단위)
  
- 기본값은 `2`입니다.
+ 기본값은 `1`입니다.
  */
 @property (nonatomic) CGFloat strokeWidth;
 

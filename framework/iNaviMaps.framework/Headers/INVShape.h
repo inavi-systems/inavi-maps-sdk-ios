@@ -1,12 +1,13 @@
 //
 //  INVShape.h
 //
-//  ⓒ 2019. iNavi Systems Corp. All rights reserved.
+//  ⓒ 2019-2020. iNavi Systems Corp. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
 #import "INVFoundation.h"
 #import "INVLatLng.h"
+#import "INVShapeOptions.h"
 
 @class INVShape;
 @class InaviMapView;
@@ -63,11 +64,14 @@ typedef NS_ENUM(NSUInteger, INVLineCap) {
  지도에 추가하거나 제거할 수 있습니다.
  */
 INV_EXPORT
-@interface INVShape : NSObject
+@interface INVShape : NSObject <INVShapeOptions>
 
 
 #pragma mark Accessing the Shape Attributes
 
+/**
+셰이프의 고유 ID.
+*/
 @property (nonatomic, readonly) NSString* identifier;
 
 /**

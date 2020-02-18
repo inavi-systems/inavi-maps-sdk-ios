@@ -1,7 +1,7 @@
 //
 //  INVCameraUpdateParams.h
 //
-//  ⓒ 2019. iNavi Systems Corp. All rights reserved.
+//  ⓒ 2019-2020. iNavi Systems Corp. All rights reserved.
 //
 
 #import <CoreGraphics/CoreGraphics.h>
@@ -47,14 +47,14 @@ INV_EXPORT
 /**
  카메라를 위치를 현위치 기준으로 특정 값 만큼 이동하도록 설정합니다.
  
- @param delta 이동할 거리. pt 단위.
+ @param delta 이동할 거리. (pt 단위)
  */
 - (void)scrollBy:(CGPoint)delta INV_DEPRECATED_WITH_TEXT("`targetBy`로 대체됩니다.");
 
 /**
  카메라를 위치를 현위치 기준으로 특정 값 만큼 이동하도록 설정합니다.
  
- @param delta 이동할 거리. pt 단위.
+ @param delta 이동할 거리. (pt 단위)
  */
 - (void)targetBy:(CGPoint)delta;
 
@@ -85,7 +85,7 @@ INV_EXPORT
 /**
  카메라의 기울기 각도를 특정 값으로 변경하도록 설정합니다.
  
- @param tilt 기울기 각도. 도 단위.
+ @param tilt 기울기 각도. (도 단위)
  */
 - (void)tiltTo:(double)tilt;
 
