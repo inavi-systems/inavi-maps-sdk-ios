@@ -98,7 +98,7 @@ INV_EXPORT
 + (void)presentLicenseViewController;
 
 /**
- 법적 공지 `UIViewController`를 표출합니다.
+ 법적 고지 `UIViewController`를 표출합니다.
 */
 + (void)presentLegalNoticeViewController;
 

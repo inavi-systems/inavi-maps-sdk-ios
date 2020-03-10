@@ -25,7 +25,7 @@ INV_EXPORT
 @interface INVInfoWindow : INVShape
 
 /**
- 정보 창의 투명도. (0~1 사잇값)
+ 정보 창의 투명도. (`0~1` 사잇값)
  
  기본값은 `1`입니다.
  */

@@ -188,9 +188,9 @@ INV_EXPORT
 + (instancetype)cameraUpdateWithBearingTo:(double)bearing;
 
 /**
- 새로운 `INVLatLngBounds` 범위로 위치와 줌 레벨을 변경하는 #`INVCameraUpdate` 객체를 생성합니다.
+ 새로운 `INVLatLngBounds` 범위로 위치와 줌 레벨을 변경하는 `INVCameraUpdate` 객체를 생성합니다.
  
- @param bounds INVLatLngBounds` 객체.
+ @param bounds `INVLatLngBounds` 객체.
  @return `INVCameraUpdate` 객체.
  */
 + (instancetype)cameraUpdateWithFitBounds:(INVLatLngBounds *)bounds;
@@ -198,7 +198,7 @@ INV_EXPORT
 /**
  새로운 `INVLatLngBounds` 범위로 위치와 줌 레벨을 변경하는 `INVCameraUpdate` 객체를 생성합니다.
  
- @param bounds INVLatLngBounds` 객체.
+ @param bounds `INVLatLngBounds` 객체.
  @param padding 패딩 값. (pt 단위)
  @return `INVCameraUpdate` 객체.
  */

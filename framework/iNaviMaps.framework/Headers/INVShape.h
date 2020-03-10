@@ -18,7 +18,7 @@ NS_ASSUME_NONNULL_BEGIN
 /**
  셰이프 터치에 대한 이벤트 블록 타입 선언.
  
- @return `YES`일 경우 이벤트를 소비합니다. 그렇지 않을 경우 `InaviMapView`까지 이벤트가 전달되어 `INVMapViewDelegate`의 `didTapMapView`가 호출됩니다.
+ @return 이벤트 소비 여부. `YES`이면 이벤트가 지도로 전달되지 않습니다. `NO`를 반환할 경우 `InaviMapView`까지 이벤트가 전달되어 `-[INVMapViewDelegate didTapMapView:LatLng:]`가 호출됩니다.
  */
 
 typedef BOOL (^INVShapeTouchEvent)(INVShape * __weak);

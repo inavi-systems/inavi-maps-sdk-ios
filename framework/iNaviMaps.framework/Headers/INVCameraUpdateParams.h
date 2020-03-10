@@ -17,7 +17,7 @@ NS_ASSUME_NONNULL_BEGIN
  
  `INVCameraUpdate`에 전달하여 `INVCameraPosition`에 상대적인 변화를 줄 수 있습니다.
  
- @see `INVCameraUpdate.cameraUpdateWithParams:`
+ @see `+[INVCameraUpdate cameraUpdateWithParams:]`
  */
 
 INV_EXPORT

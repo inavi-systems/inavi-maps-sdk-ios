@@ -108,7 +108,7 @@ IB_DESIGNABLE
 /**
  지도 이동을 제한하는 `INVLatLngBounds` 영역.
  
- `nil` 설정 시 제한이 해제됩니다.
+ `nil`로 설정할 경우 제한이 해제됩니다.
  */
 @property (nonatomic, nullable) INVLatLngBounds *constraintBounds;
 
@@ -208,7 +208,7 @@ IB_DESIGNABLE
 /**
  로고 클릭 시 SDK 정보 팝업 표출 여부를 나타내는 속성.
  
- 비활성화 시 별도의 페이지에 아이나비 지도 SDK의 오픈 소스 라이선스와 법적 공지를 제공해야 합니다.<br>
+ 비활성화 시 별도의 페이지에 아이나비 지도 SDK의 오픈 소스 라이선스와 법적 고지를 제공해야 합니다.<br>
  기본값은 `YES`입니다.
  
  @see `+[INVMapSdk presentLicenseViewController]`<br>`+[INVMapSdk presentLegalNoticeViewController]`
@@ -220,7 +220,7 @@ IB_DESIGNABLE
  지도 애니메이션 마찰 계수 입니다.
  값의 범위는 `0~1`이며, 계수가 클수록 마찰이 강해집니다.
  
- 기본값은 UIScrollViewDecelerationRate의 `UIScrollViewDecelerationRateNormal`입니다.
+ 기본값은 `UIScrollViewDecelerationRateNormal`입니다.
  */
 @property(nonatomic) CGFloat decelerationRate;
 #pragma mark Manipulating the Viewpoint
@@ -246,6 +246,31 @@ IB_DESIGNABLE
  */
 - (void)cancelTransitions;
 
+
+/**
+ 특정 `INVLatLngBounds` 전체 영역이 보이는 중심 좌표와 줌 레벨을 포함하는 `INVCameraPosition` 객체를 반환합니다.
+
+ @param bounds `INVLatLngBounds` 객체.
+ @return `INVCameraPosition` 객체.
+*/
+- (INVCameraPosition *)cameraFitBounds:(INVLatLngBounds*)bounds;
+
+/**
+ 특정 `INVLatLngBounds` 전체 영역이 보이는 중심 좌표와 줌 레벨을 포함하는 `INVCameraPosition` 객체를 반환합니다.
+
+ @param bounds `INVLatLngBounds` 객체.
+ @param insets 패딩 값. (pt 단위)
+ @return `INVCameraPosition` 객체.
+*/
+- (INVCameraPosition *)cameraFitBounds:(INVLatLngBounds*)bounds insets:(UIEdgeInsets)insets;
+
+
+/**
+지도에 등록된 모든 셰이프를 지도에서 제거합니다.
+
+ @see `INVShape.mapView`
+*/
+- (void)clearShapes;
 
 @end
 
