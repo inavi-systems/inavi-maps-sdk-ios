@@ -43,7 +43,7 @@ NS_ASSUME_NONNULL_BEGIN
 /**
  지도가 표시하고 있는 영역이 변경되었을 때 호출되는 콜백 메서드.
 
- @param mapView 영역이 변경된 `INaviMapView` 객체.
+ @param mapView 영역이 변경된 `InaviMapView` 객체.
  @param animated 애니메이션 효과가 적용돼 움직인 경우 `YES`, 그렇지 않은 경우 `NO`.
  @param reason 카메라 변경 이유.
  */
@@ -51,16 +51,16 @@ NS_ASSUME_NONNULL_BEGIN
 
 
 /**
- 지도가 표시하고 있는 영역이 변경된 후 진행 중인 터치 이벤트가 없을 때 호출되는 콜백 메서드.
-
- @param mapView 영역이 변경된 `INaviMapView` 객체.
+ 추가적인 데이터나 지도와 상호 작용이 없는 유휴 상태로 진입할 때마다 호출되는 콜백 메서드.
+ 
+ @param mapView 유휴 상태로 진입한 `InaviMapView` 객체.
  */
 - (void)mapViewDidBecomeIdle:(InaviMapView *)mapView;
 
 #pragma mark Responding to Map Event
 
 /**
- 사용자가 지도를 탭하면 호출됩니다.
+ 사용자가 지도를 탭했을 때 호출되는 콜백 메서드.
 
  @param point 탭한 화면 좌표.
  @param latlng 탭한 위경도 좌표.
@@ -68,7 +68,7 @@ NS_ASSUME_NONNULL_BEGIN
 - (void)didTapMapView:(CGPoint)point LatLng:(INVLatLng*)latlng;
 
 /**
- 사용자가 지도를 더블 탭하면 호출됩니다.
+ 사용자가 지도를 더블 탭했을 때 호출되는 콜백 메서드.
 
  @param point 더블 탭한 화면 좌표.
  @param latlng 더블 탭한 위경도 좌표.
@@ -77,7 +77,7 @@ NS_ASSUME_NONNULL_BEGIN
 - (BOOL)didDoubleTapMapView:(CGPoint)point LatLng:(INVLatLng*)latlng;
 
 /**
- 사용자가 지도를 롱 탭하면 호출됩니다.
+ 사용자가 지도를 롱 탭했을 때 호출되는 콜백 메서드.
  
  @param point 롱 탭한 화면 좌표.
  @param latlng 롱 탭한 위경도 좌표.
@@ -87,7 +87,7 @@ NS_ASSUME_NONNULL_BEGIN
 #pragma mark Responding to User Location
 
 /**
- 위치 추적 모드가 변경될 때 호출되는 콜백 메서드.
+ 위치 추적 모드가 변경되었을 때 호출되는 콜백 메서드.
 
  @param mapView 위치 추적 모드가 적용된 `InaviMapView` 객체.
  @param mode 위치 추적 모드.
@@ -96,7 +96,7 @@ NS_ASSUME_NONNULL_BEGIN
 - (void)mapView:(InaviMapView *)mapView didChangeUserTrackingMode:(INVUserTrackingMode)mode animated:(BOOL)animated;
 
 /**
- 위치가 업데이트 되면 호출되는 콜백 메서드.
+ 위치가 업데이트 되었을 때 호출되는 콜백 메서드.
 
 @param mapView 위치 추적 모드가 적용된 `InaviMapView` 객체.
 @param userLocation 업데이트 된 위치
