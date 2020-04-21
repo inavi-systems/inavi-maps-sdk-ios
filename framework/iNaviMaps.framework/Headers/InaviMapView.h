@@ -106,6 +106,21 @@ IB_DESIGNABLE
 @property (nonatomic) double maximumZoomLevel;
 
 /**
+ 지도의 최소 기울기 각도. (도 단위)
+ 
+ 기본값은 `0`입니다.
+ */
+@property (nonatomic) double minimumTilt;
+
+/**
+ 지도의 최대 기울기 각도. (도 단위)
+ 
+ 기본값은 `60`입니다.
+ */
+@property (nonatomic) double maximumTilt;
+
+
+/**
  지도 이동을 제한하는 `INVLatLngBounds` 영역.
  
  `nil`로 설정할 경우 제한이 해제됩니다.
