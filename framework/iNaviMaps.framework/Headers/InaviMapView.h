@@ -219,6 +219,14 @@ IB_DESIGNABLE
  */
 @property(nonatomic, getter=isTiltGesturesEnabled) BOOL tiltGesturesEnabled;
 
+/**
+ 줌 또는 회전 제스처 시 기준점을 지도 중심으로 할지 여부를 나타내는 속성.
+ 
+ 값이 `YES`이면 지도 중심을 기준으로, `NO`이면 제스처 하는 위치를 기준으로 줌 또는 회전이 됩니다.<br>
+ 기본값은 `NO` 입니다.
+ */
+@property(nonatomic, getter=isFocalPointCenter) BOOL focalPointCenter;
+
 
 /**
  로고 클릭 시 SDK 정보 팝업 표출 여부를 나타내는 속성.

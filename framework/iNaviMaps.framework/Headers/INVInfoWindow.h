@@ -58,6 +58,13 @@ INV_EXPORT
 @property(nonatomic) CGPoint offset;
 
 /**
+ 정보 창의 표출 상태가 변경될 때 애니메이션을 적용할지 여부.
+ 
+ 기본값은 `NO`입니다.
+ */
+@property (nonatomic) BOOL isTransitionEnabled;
+
+/**
  정보 창 이미지를 다시 그립니다.
  */
 - (void)invalidate;
