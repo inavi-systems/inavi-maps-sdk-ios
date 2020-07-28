@@ -92,6 +92,34 @@ INV_EXPORT
 
 
 /**
+ 패턴 이미지.
+ 
+ 패턴의 크기는 경로의 두께로 리사이징되며  `patternScale`로 변경 가능합니다.
+ 
+ 기본값은 `nil` 입니다.
+ */
+@property (nonatomic, strong, nullable) INVImage *patternImage;
+
+/**
+ 경로의 두께 대비 패턴 크기의 배율.
+ 
+ 값이 `1.0`이면 경로와 동일한 크기로 표출됩니다.
+
+ 기본값은 `1.0`입니다.
+
+ */
+@property (nonatomic) CGFloat patternScale;
+
+/**
+ 패턴의 간격. (pt 단위)
+ 
+ 패턴 이미지간 간격을 설정할 수 있습니다.
+ 
+ 기본값은 `0`입니다.
+ */
+@property (nonatomic) CGFloat patternMargin;
+
+/**
  링크 배열을 이용하여 경로 객체를 생성합니다.
  
  @param links 링크 배열.
