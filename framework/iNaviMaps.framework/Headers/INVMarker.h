@@ -94,6 +94,13 @@ INV_EXPORT
 @property (nonatomic) BOOL isAllowOverlapTitle;
 
 /**
+ 마커와 지도상 심볼 겹침을 허용할지 여부를 반환합니다.
+ 
+ 기본값은 `NO`입니다.
+ */
+@property (nonatomic) BOOL isAllowOverlapSymbols;
+
+/**
  마커의 아이콘을 지도에 평평하게 표출할지 여부.
  
  기본값은 `NO`입니다.
