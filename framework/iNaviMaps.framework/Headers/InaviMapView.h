@@ -96,28 +96,28 @@ IB_DESIGNABLE
  
  기본값은 `1`입니다.
  */
-@property (nonatomic) double minimumZoomLevel;
+@property (nonatomic) IBInspectable double minimumZoomLevel;
 
 /**
  지도의 최대 줌 레벨.
  
  기본값은 `20`입니다.
  */
-@property (nonatomic) double maximumZoomLevel;
+@property (nonatomic) IBInspectable double maximumZoomLevel;
 
 /**
  지도의 최소 기울기 각도. (도 단위)
  
  기본값은 `0`입니다.
  */
-@property (nonatomic) double minimumTilt;
+@property (nonatomic) IBInspectable double minimumTilt;
 
 /**
  지도의 최대 기울기 각도. (도 단위)
  
  기본값은 `60`입니다.
  */
-@property (nonatomic) double maximumTilt;
+@property (nonatomic) IBInspectable double maximumTilt;
 
 
 /**
@@ -196,28 +196,28 @@ IB_DESIGNABLE
  
  기본값은 `YES`입니다.
  */
-@property(nonatomic, getter=isZoomGesturesEnabled) BOOL zoomGesturesEnabled;
+@property(nonatomic, getter=isZoomGesturesEnabled) IBInspectable BOOL zoomGesturesEnabled;
 
 /**
  지도 스크롤 제스처 사용 여부를 나타내는 속성.
  
  기본값은 `YES`입니다.
  */
-@property(nonatomic, getter=isScrollGesturesEnabled) BOOL scrollGesturesEnabled;
+@property(nonatomic, getter=isScrollGesturesEnabled) IBInspectable BOOL scrollGesturesEnabled;
 
 /**
  지도 회전 제스처 사용 여부를 나타내는 속성.
  
  기본값은 `YES`입니다.
  */
-@property(nonatomic, getter=isRotateGesturesEnabled) BOOL rotateGesturesEnabled;
+@property(nonatomic, getter=isRotateGesturesEnabled) IBInspectable BOOL rotateGesturesEnabled;
 
 /**
  지도 기울기 제스처 사용 여부를 나타내는 속성.
  
  기본값은 `YES`입니다.
  */
-@property(nonatomic, getter=isTiltGesturesEnabled) BOOL tiltGesturesEnabled;
+@property(nonatomic, getter=isTiltGesturesEnabled) IBInspectable BOOL tiltGesturesEnabled;
 
 /**
  줌 또는 회전 제스처 시 기준점을 지도 중심으로 할지 여부를 나타내는 속성.
@@ -225,7 +225,7 @@ IB_DESIGNABLE
  값이 `YES`이면 지도 중심을 기준으로, `NO`이면 제스처 하는 위치를 기준으로 줌 또는 회전이 됩니다.<br>
  기본값은 `NO` 입니다.
  */
-@property(nonatomic, getter=isFocalPointCenter) BOOL focalPointCenter;
+@property(nonatomic, getter=isFocalPointCenter) IBInspectable BOOL focalPointCenter;
 
 
 /**
@@ -236,7 +236,7 @@ IB_DESIGNABLE
  
  @see `+[INVMapSdk presentLicenseViewController]`<br>`+[INVMapSdk presentLegalNoticeViewController]`
  */
-@property(nonatomic, getter=isLogoClickEnabled) BOOL logoClickEnabled;
+@property(nonatomic, getter=isLogoClickEnabled) IBInspectable BOOL logoClickEnabled;
 
 
 /**

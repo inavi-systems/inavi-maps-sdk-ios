@@ -10,6 +10,7 @@ FOUNDATION_EXPORT INV_EXPORT const unsigned char iNaviMapsVersionString[];
 
 
 #import "InaviMapView.h"
+#import "InaviMapView+IBAdditions.h"
 #import "INVMapOptions.h"
 #import "INVShape.h"
 #import "INVShapeOptions.h"
