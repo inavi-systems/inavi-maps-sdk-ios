@@ -1,7 +1,7 @@
 //
 //  InaviMapView.h
 //
-//  ⓒ 2019-2020. iNavi Systems Corp. All rights reserved.
+//  ⓒ 2019-2021. iNavi Systems Corp. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
@@ -119,6 +119,14 @@ IB_DESIGNABLE
  */
 @property (nonatomic) IBInspectable double maximumTilt;
 
+
+/**
+ 지도 심벌의 크기. (배율 단위)
+ `0.0` ~ `2.0` 값을 지원하며 `1.5`으로 설정하면 지도 심벌이 `1.5`배의 크기로 표출됩니다.
+ 
+ 기본값은 `1.0`입니다.
+ */
+@property (nonatomic) IBInspectable double symbolScale;
 
 /**
  지도 이동을 제한하는 `INVLatLngBounds` 영역.

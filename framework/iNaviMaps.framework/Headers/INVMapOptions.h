@@ -76,6 +76,14 @@ INV_EXPORT
 @property (nonatomic) double maximumTilt;
 
 /**
+ 지도 심벌의 크기. (배율 단위)
+ `0.0` ~ `2.0` 값을 지원하며 `1.5`으로 설정하면 지도 심벌이 `1.5`배의 크기로 표출됩니다.
+ 
+ 기본값은 `1.0`입니다.
+ */
+@property (nonatomic) double symbolScale;
+
+/**
  지도 줌 제스처 사용 여부를 나타내는 속성.
  
  기본값은 `YES`입니다.
