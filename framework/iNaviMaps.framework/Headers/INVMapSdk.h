@@ -7,6 +7,7 @@
 #import "INVFoundation.h"
 
 @class UIViewController;
+@class INVMapStyle;
 
 NS_ASSUME_NONNULL_BEGIN
 
@@ -50,7 +51,7 @@ typedef NS_ENUM(NSInteger, INVErrorCode) {
 };
 
 /**
-  아이나비 지도 인증에 실패 처리 결과를 알려주는 콜백 메서드가 정의된 프로토콜.
+  아이나비 지도 인증 결과를 알려주는 콜백 메서드가 정의된 프로토콜.
  */
 @protocol INVMapSdkDelegate <NSObject>
 @optional
@@ -60,6 +61,14 @@ typedef NS_ENUM(NSInteger, INVErrorCode) {
  @param message 인증 실패 메시지
  */
 - (void)authFailure:(NSInteger)errorCode message:(NSString*)message;
+
+/**
+ 아이나비 지도 인증에 성공했을 때 커스텀 스타일 배열과 함께 호출되는 콜백.<br>
+ 커스텀 지도 스타일 배열은 SDK에 저장되며 `INVMapSdk.savedCustomMapStyles`에서 확인할 수 있습니다.
+ 
+ @param customMapStyles 커스텀 지도 스타일 배열
+ */
+- (void)authSuccess:(NSArray<INVMapStyle*> *)customMapStyles;
 @end
 
 
@@ -103,7 +112,7 @@ INV_EXPORT
 + (void)presentLegalNoticeViewController;
 
 /**
- 지도 인증 실패 시 전달되는 delegate
+ 아이나비 지도 인증 결과가 전달되는 delegate
  */
 @property (nonatomic, weak) id<INVMapSdkDelegate> delegate;
 
@@ -111,6 +120,11 @@ INV_EXPORT
  지도 인증 AppKey
  */
 @property (nonatomic, nullable) NSString *appKey;
+
+/**
+ 저장된 커스텀 지도 스타일 배열
+ */
+@property (nonatomic, readonly) NSArray<INVMapStyle *> *savedCustomMapStyles;
 
 @end
 

@@ -40,3 +40,4 @@ FOUNDATION_EXPORT INV_EXPORT const unsigned char iNaviMapsVersionString[];
 #import "INVClusterManagerDelegate.h"
 #import "INVClusterIconGenerator.h"
 #import "INVDefaultClusterIconGenerator.h"
+#import "INVMapStyle.h"

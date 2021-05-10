@@ -19,6 +19,7 @@ NS_ASSUME_NONNULL_BEGIN
 @class INVLatLngBounds;
 @class INVMapOptions;
 @class INVLocationIcon;
+@class INVMapStyle;
 
 @protocol INVMapViewDelegate;
 
@@ -182,6 +183,19 @@ IB_DESIGNABLE
  기본값은 `NO`입니다.
  */
 @property (nonatomic) IBInspectable BOOL showLocationButton;
+
+
+/**
+ 지도에 적용할 커스텀 지도 스타일.
+
+ 적용하려는 지도 스타일이 `INVMapSdk.savedCustomMapStyles`에 존재하지 않거나 `nil`로 설정할 경우 기본 지도 스타일이 적용됩니다.
+
+ 커스텀 스타일 적용 시 건물 3D 효과, 셰이프 전역 Z 인덱스, 지도 심볼 Scale 기능은 제한적으로 지원되거나 지원되지 않습니다. 추후 업데이트를 통해 지원될 예정입니다.
+
+ 기본값은 `nil`입니다.
+ */
+@property (nonatomic, strong, nullable) INVMapStyle* customMapStyle;
+
 
 #pragma mark Displaying the User’s Location
 

@@ -131,6 +131,17 @@ INV_EXPORT
 @property(nonatomic, getter=isLogoClickEnabled) BOOL logoClickEnabled;
 
 
+
+/**
+ 지도에 적용할 커스텀 지도 스타일.
+
+ 적용하려는 지도 스타일이 `INVMapSdk.savedCustomMapStyles`에 존재하지 않거나 `nil`로 설정할 경우 기본 지도 스타일이 적용됩니다.
+
+ 기본값은 `nil`입니다.
+ */
+@property (nonatomic, nullable) INVMapStyle* customMapStyle;
+
+
 @end
 
 NS_ASSUME_NONNULL_END
