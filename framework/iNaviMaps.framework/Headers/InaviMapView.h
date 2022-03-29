@@ -1,7 +1,7 @@
 //
 //  InaviMapView.h
 //
-//  ⓒ 2019-2021. iNavi Systems Corp. All rights reserved.
+//  ⓒ 2019-2022. iNavi Systems Corp. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
@@ -48,6 +48,20 @@ typedef NS_ENUM(NSUInteger, INVUserTrackingMode) {
      사용자 위치가 추적되고 그에 따른 카메라의 위치와 베어링이 변경되는 모드.
      */
     INVUserTrackingModeTrackingCompass,
+};
+
+/**
+ 위치를 정의하는 열거형.
+ */
+typedef NS_ENUM(NSUInteger, INVPosition) {
+    /** 지도의 왼쪽 상단에 위치합니다. */
+    INVPositionTopLeft = 0,
+    /** 지도의 오른쪽 상단에 위치합니다. */
+    INVPositionTopRight,
+    /** 지도의 왼쪽 하단에 위치합니다. */
+    INVPositionBottomLeft,
+    /** 지도의 오른쪽 하단에 위치합니다. */
+    INVPositionBottomRight,
 };
 
 /**
@@ -183,6 +197,20 @@ IB_DESIGNABLE
  기본값은 `NO`입니다.
  */
 @property (nonatomic) IBInspectable BOOL showLocationButton;
+
+/**
+ 로고의 위치.
+ 
+ 기본값은 `INVPositionBottomLeft`입니다.
+ */
+@property (nonatomic, assign) INVPosition logoViewPosition;
+
+/**
+ 로고의 마진  (pt 단위).
+
+ 기본값은 `(8, 8)`입니다.
+ */
+@property (nonatomic, assign) CGPoint logoViewMargins;
 
 
 /**

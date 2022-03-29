@@ -6,7 +6,7 @@
 NS_ASSUME_NONNULL_BEGIN
 
 /**
- <a href="https://docs.toast.com/ko/Application%20Service/Maps/ko/Overview/" target="_blank">Map Studio</a> 서비스를 이용하여 생성된 커스텀 지도 스타일을 나타내는 클래스.
+ <a href="https://docs.toast.com/ko/Application%20Service/Maps/ko/map-studio-v1.0/" target="_blank">Map Studio</a> 서비스를 이용하여 생성된 커스텀 지도 스타일을 나타내는 클래스.
  
  아이나비 지도 인증이 완료되면 `-[INVMapSdkDelegate authSuccess:]` 콜백으로 커스텀 지도 스타일 배열이 전달됩니다. 커스텀 지도 스타일 배열은 SDK에 저장되며 `INVMapSdk.savedCustomMapStyles`에서 확인할 수 있습니다.
  */

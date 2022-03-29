@@ -45,6 +45,19 @@ INV_EXPORT
  */
 @property (nonatomic) BOOL showLocationButton;
 
+/**
+ 로고의 위치.
+ 
+ 기본값은 `INVPositionBottomLeft`입니다.
+ */
+@property (nonatomic, assign) INVPosition logoViewPosition;
+
+/**
+ 로고의 마진  (pt 단위).
+
+ 기본값은 `(8, 8)`입니다.
+ */
+@property (nonatomic, assign) CGPoint logoViewMargins;
 
 /**
  지도의 최소 줌 레벨.
