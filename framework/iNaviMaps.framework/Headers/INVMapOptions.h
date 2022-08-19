@@ -155,6 +155,16 @@ INV_EXPORT
 @property (nonatomic, nullable) INVMapStyle* customMapStyle;
 
 
+
+/**
+ 지도에 적용할 지도 유형.
+ 
+ 기본값은 `INVMapTypeNormal`입니다.
+ */
+@property(nonatomic) INVMapType mapType;
+
+
+
 @end
 
 NS_ASSUME_NONNULL_END

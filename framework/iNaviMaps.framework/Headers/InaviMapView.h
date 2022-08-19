@@ -65,6 +65,19 @@ typedef NS_ENUM(NSUInteger, INVPosition) {
 };
 
 /**
+ 지원하는 지도의 유형 열거형.
+ */
+typedef NS_ENUM(NSInteger, INVMapType) {
+    /** 일반 지도 유형. */
+    INVMapTypeNormal = 0,
+    /** 하이브리드 지도 유형. */
+    INVMapTypeHybrid,
+    /** 항공 지도 유형. */
+    INVMapTypeSatellite
+};
+
+
+/**
  아이나비 지도를 정의하는 뷰 클래스.<br>
  해당 클래스를 서브 뷰로 추가하여 지도를 표출할 수 있습니다.
  */
@@ -224,6 +237,12 @@ IB_DESIGNABLE
  */
 @property (nonatomic, strong, nullable) INVMapStyle* customMapStyle;
 
+/**
+ 지도의 유형.
+ 
+ 기본값은 `INVMapTypeNormal`입니다.
+ */
+@property(nonatomic) INVMapType mapType;
 
 #pragma mark Displaying the User’s Location
 
