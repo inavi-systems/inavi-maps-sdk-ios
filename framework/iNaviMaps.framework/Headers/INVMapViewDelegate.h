@@ -1,7 +1,7 @@
 //
 //  INVMapViewDelegate.h
 //
-//  ⓒ 2019-2022. iNavi Systems Corp. All rights reserved.
+//  ⓒ 2019-2023. iNavi Systems Corp. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
@@ -19,6 +19,18 @@ NS_ASSUME_NONNULL_BEGIN
 @protocol INVMapViewDelegate <NSObject>
 
 @optional
+
+#pragma mark Responding to Map Initialization
+
+/**
+ 지도 인증 과정에서 커스텀 지도 스타일을 로드할 때 호출되는 콜백 메서드.<br>
+ 콜백 메서드로 전달되는 커스텀 지도 스타일 리스트 중에서 지도에 설정할 커스텀 지도 스타일을 반환하면 됩니다.
+
+ @param mapView 지도 인증 과정에서 커스텀 지도 스타일을 로드할 `InaviMapView` 객체.
+ @param customMapStyles 커스텀 지도 스타일 리스트.
+ @return 설정할 커스텀 지도 스타일. `null`을 반환하면 기본 지도 스타일이 적용됩니다.
+ */
+- (nullable INVMapStyle*)mapView:(InaviMapView *)mapView willLoadInitialCustomMapStyleInCustomMapStyles:(NSArray<INVMapStyle*> *)customMapStyles;
 
 #pragma mark Responding to Map Position Changes
 

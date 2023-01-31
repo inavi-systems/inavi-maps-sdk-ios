@@ -1,7 +1,7 @@
 //
 //  InaviMapView.h
 //
-//  ⓒ 2019-2022. iNavi Systems Corp. All rights reserved.
+//  ⓒ 2019-2023. iNavi Systems Corp. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
@@ -20,6 +20,7 @@ NS_ASSUME_NONNULL_BEGIN
 @class INVMapOptions;
 @class INVLocationIcon;
 @class INVMapStyle;
+@class INVPoi;
 
 @protocol INVMapViewDelegate;
 
@@ -105,6 +106,17 @@ IB_DESIGNABLE
  @return `InaviMapView` 인스턴스.
  */
 - (instancetype)initWithFrame:(CGRect)frame options:(INVMapOptions *)options;
+
+
+/**
+ 지정된 프레임 크기, 기본 옵션과 Delegate를 지정하여 지도 뷰의 인스턴스를 생성합니다.
+ 
+ @param frame 사용자 지정 프레임 크기.
+ @param options 지도의 기본 옵션.
+ @param delegate `InaviMapView`의 Delegate.
+ @return `InaviMapView` 인스턴스.
+ */
+- (instancetype)initWithFrame:(CGRect)frame options:(nullable INVMapOptions *)options delegate:(nonnull id<INVMapViewDelegate>)delegate;
 
 
 #pragma mark Accessing the Delegate
@@ -358,11 +370,19 @@ IB_DESIGNABLE
 
 
 /**
-지도에 등록된 모든 셰이프를 지도에서 제거합니다.
+ 지도에 등록된 모든 셰이프를 지도에서 제거합니다.
 
  @see `INVShape.mapView`
 */
 - (void)clearShapes;
+
+/**
+ 특정 화면 영역에 표출되는 POI의 정보를 `INVPoi` 객체 Array로 반환합니다.
+ 
+ @param rect 화면 영역.
+ @return `INVPoi` 객체 Array.
+*/
+- (NSArray<INVPoi*> *)pickPois:(CGRect)rect;
 
 @end
 
