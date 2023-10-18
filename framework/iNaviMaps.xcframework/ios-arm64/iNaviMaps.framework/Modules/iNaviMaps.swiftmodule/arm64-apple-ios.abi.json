@@ -1,0 +1,5254 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "iNaviMaps"
+      },
+      {
+        "kind": "Import",
+        "name": "CoreLocation",
+        "printedName": "CoreLocation",
+        "declKind": "Import",
+        "moduleName": "iNaviMaps"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "iNaviMaps"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "iNaviMaps"
+      },
+      {
+        "kind": "Import",
+        "name": "CoreLocation",
+        "printedName": "CoreLocation",
+        "declKind": "Import",
+        "moduleName": "iNaviMaps"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "iNaviMaps"
+      },
+      {
+        "kind": "Import",
+        "name": "CoreLocation",
+        "printedName": "CoreLocation",
+        "declKind": "Import",
+        "moduleName": "iNaviMaps"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "iNaviMaps"
+      },
+      {
+        "kind": "Import",
+        "name": "CoreLocation",
+        "printedName": "CoreLocation",
+        "declKind": "Import",
+        "moduleName": "iNaviMaps"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "iNaviMaps"
+      },
+      {
+        "kind": "Import",
+        "name": "CoreLocation",
+        "printedName": "CoreLocation",
+        "declKind": "Import",
+        "moduleName": "iNaviMaps"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "iNaviMaps",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "iNaviMaps"
+      },
+      {
+        "kind": "Import",
+        "name": "CoreLocation",
+        "printedName": "CoreLocation",
+        "declKind": "Import",
+        "moduleName": "iNaviMaps"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "iNaviMaps"
+      },
+      {
+        "kind": "Import",
+        "name": "CoreLocation",
+        "printedName": "CoreLocation",
+        "declKind": "Import",
+        "moduleName": "iNaviMaps"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "iNaviMaps"
+      },
+      {
+        "kind": "Import",
+        "name": "CoreLocation",
+        "printedName": "CoreLocation",
+        "declKind": "Import",
+        "moduleName": "iNaviMaps"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "iNaviMaps"
+      },
+      {
+        "kind": "Import",
+        "name": "CoreLocation",
+        "printedName": "CoreLocation",
+        "declKind": "Import",
+        "moduleName": "iNaviMaps"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "iNaviMaps"
+      },
+      {
+        "kind": "Import",
+        "name": "CoreLocation",
+        "printedName": "CoreLocation",
+        "declKind": "Import",
+        "moduleName": "iNaviMaps"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "iNaviMaps"
+      },
+      {
+        "kind": "Import",
+        "name": "CoreLocation",
+        "printedName": "CoreLocation",
+        "declKind": "Import",
+        "moduleName": "iNaviMaps"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "iNaviMaps"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "iNaviMaps"
+      },
+      {
+        "kind": "Import",
+        "name": "CoreLocation",
+        "printedName": "CoreLocation",
+        "declKind": "Import",
+        "moduleName": "iNaviMaps"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "iNaviMaps",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "iNaviMaps"
+      },
+      {
+        "kind": "Import",
+        "name": "CoreLocation",
+        "printedName": "CoreLocation",
+        "declKind": "Import",
+        "moduleName": "iNaviMaps"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "iNaviMaps"
+      },
+      {
+        "kind": "Import",
+        "name": "CoreLocation",
+        "printedName": "CoreLocation",
+        "declKind": "Import",
+        "moduleName": "iNaviMaps"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "iNaviMaps"
+      },
+      {
+        "kind": "Import",
+        "name": "CoreLocation",
+        "printedName": "CoreLocation",
+        "declKind": "Import",
+        "moduleName": "iNaviMaps"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "iNaviMaps"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "iNaviMaps"
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "iNaviMaps"
+      },
+      {
+        "kind": "Import",
+        "name": "DeveloperToolsSupport",
+        "printedName": "DeveloperToolsSupport",
+        "declKind": "Import",
+        "moduleName": "iNaviMaps"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "Double",
+        "printedName": "Double",
+        "declKind": "Struct",
+        "usr": "s:Sd",
+        "mangledName": "$sSd",
+        "moduleName": "Swift",
+        "declAttributes": [
+          "Frozen"
+        ],
+        "isExternal": true,
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Decodable",
+            "printedName": "Decodable",
+            "usr": "s:Se",
+            "mangledName": "$sSe"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Encodable",
+            "printedName": "Encodable",
+            "usr": "s:SE",
+            "mangledName": "$sSE"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomReflectable",
+            "printedName": "CustomReflectable",
+            "usr": "s:s17CustomReflectableP",
+            "mangledName": "$ss17CustomReflectableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_CustomPlaygroundQuickLookable",
+            "printedName": "_CustomPlaygroundQuickLookable",
+            "usr": "s:s30_CustomPlaygroundQuickLookableP",
+            "mangledName": "$ss30_CustomPlaygroundQuickLookableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_CVarArgPassedAsDouble",
+            "printedName": "_CVarArgPassedAsDouble",
+            "usr": "s:s22_CVarArgPassedAsDoubleP",
+            "mangledName": "$ss22_CVarArgPassedAsDoubleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_CVarArgAligned",
+            "printedName": "_CVarArgAligned",
+            "usr": "s:s15_CVarArgAlignedP",
+            "mangledName": "$ss15_CVarArgAlignedP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "LosslessStringConvertible",
+            "printedName": "LosslessStringConvertible",
+            "usr": "s:s25LosslessStringConvertibleP",
+            "mangledName": "$ss25LosslessStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "TextOutputStreamable",
+            "printedName": "TextOutputStreamable",
+            "usr": "s:s20TextOutputStreamableP",
+            "mangledName": "$ss20TextOutputStreamableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "BinaryFloatingPoint",
+            "printedName": "BinaryFloatingPoint",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "RawSignificand",
+                "printedName": "RawSignificand",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UInt64",
+                    "printedName": "Swift.UInt64",
+                    "usr": "s:s6UInt64V"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeWitness",
+                "name": "RawExponent",
+                "printedName": "RawExponent",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UInt",
+                    "printedName": "Swift.UInt",
+                    "usr": "s:Su"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:SB",
+            "mangledName": "$sSB"
+          },
+          {
+            "kind": "Conformance",
+            "name": "ExpressibleByFloatLiteral",
+            "printedName": "ExpressibleByFloatLiteral",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "FloatLiteralType",
+                "printedName": "FloatLiteralType",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Double",
+                    "printedName": "Swift.Double",
+                    "usr": "s:Sd"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:s25ExpressibleByFloatLiteralP",
+            "mangledName": "$ss25ExpressibleByFloatLiteralP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "FloatingPoint",
+            "printedName": "FloatingPoint",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "Exponent",
+                "printedName": "Exponent",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:SF",
+            "mangledName": "$sSF"
+          },
+          {
+            "kind": "Conformance",
+            "name": "SignedNumeric",
+            "printedName": "SignedNumeric",
+            "usr": "s:s13SignedNumericP",
+            "mangledName": "$ss13SignedNumericP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Numeric",
+            "printedName": "Numeric",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "Magnitude",
+                "printedName": "Magnitude",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Double",
+                    "printedName": "Swift.Double",
+                    "usr": "s:Sd"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:Sj",
+            "mangledName": "$sSj"
+          },
+          {
+            "kind": "Conformance",
+            "name": "AdditiveArithmetic",
+            "printedName": "AdditiveArithmetic",
+            "usr": "s:s18AdditiveArithmeticP",
+            "mangledName": "$ss18AdditiveArithmeticP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_ExpressibleByBuiltinIntegerLiteral",
+            "printedName": "_ExpressibleByBuiltinIntegerLiteral",
+            "usr": "s:s35_ExpressibleByBuiltinIntegerLiteralP",
+            "mangledName": "$ss35_ExpressibleByBuiltinIntegerLiteralP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "ExpressibleByIntegerLiteral",
+            "printedName": "ExpressibleByIntegerLiteral",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "IntegerLiteralType",
+                "printedName": "IntegerLiteralType",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int64",
+                    "printedName": "Swift.Int64",
+                    "usr": "s:s5Int64V"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:s27ExpressibleByIntegerLiteralP",
+            "mangledName": "$ss27ExpressibleByIntegerLiteralP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_ExpressibleByBuiltinFloatLiteral",
+            "printedName": "_ExpressibleByBuiltinFloatLiteral",
+            "usr": "s:s33_ExpressibleByBuiltinFloatLiteralP",
+            "mangledName": "$ss33_ExpressibleByBuiltinFloatLiteralP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_HasCustomAnyHashableRepresentation",
+            "printedName": "_HasCustomAnyHashableRepresentation",
+            "usr": "s:s35_HasCustomAnyHashableRepresentationP",
+            "mangledName": "$ss35_HasCustomAnyHashableRepresentationP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Strideable",
+            "printedName": "Strideable",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "Stride",
+                "printedName": "Stride",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Double",
+                    "printedName": "Swift.Double",
+                    "usr": "s:Sd"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:Sx",
+            "mangledName": "$sSx"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Comparable",
+            "printedName": "Comparable",
+            "usr": "s:SL",
+            "mangledName": "$sSL"
+          },
+          {
+            "kind": "Conformance",
+            "name": "SIMDScalar",
+            "printedName": "SIMDScalar",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "SIMDMaskScalar",
+                "printedName": "SIMDMaskScalar",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int64",
+                    "printedName": "Swift.Int64",
+                    "usr": "s:s5Int64V"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeWitness",
+                "name": "SIMD2Storage",
+                "printedName": "SIMD2Storage",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "SIMD2Storage",
+                    "printedName": "Swift.Double.SIMD2Storage",
+                    "usr": "s:Sd12SIMD2StorageV"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeWitness",
+                "name": "SIMD4Storage",
+                "printedName": "SIMD4Storage",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "SIMD4Storage",
+                    "printedName": "Swift.Double.SIMD4Storage",
+                    "usr": "s:Sd12SIMD4StorageV"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeWitness",
+                "name": "SIMD8Storage",
+                "printedName": "SIMD8Storage",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "SIMD8Storage",
+                    "printedName": "Swift.Double.SIMD8Storage",
+                    "usr": "s:Sd12SIMD8StorageV"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeWitness",
+                "name": "SIMD16Storage",
+                "printedName": "SIMD16Storage",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "SIMD16Storage",
+                    "printedName": "Swift.Double.SIMD16Storage",
+                    "usr": "s:Sd13SIMD16StorageV"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeWitness",
+                "name": "SIMD32Storage",
+                "printedName": "SIMD32Storage",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "SIMD32Storage",
+                    "printedName": "Swift.Double.SIMD32Storage",
+                    "usr": "s:Sd13SIMD32StorageV"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeWitness",
+                "name": "SIMD64Storage",
+                "printedName": "SIMD64Storage",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "SIMD64Storage",
+                    "printedName": "Swift.Double.SIMD64Storage",
+                    "usr": "s:Sd13SIMD64StorageV"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:s10SIMDScalarP",
+            "mangledName": "$ss10SIMDScalarP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_FormatSpecifiable",
+            "printedName": "_FormatSpecifiable",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "_Arg",
+                "printedName": "_Arg",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Double",
+                    "printedName": "Swift.Double",
+                    "usr": "s:Sd"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:10Foundation18_FormatSpecifiableP",
+            "mangledName": "$s10Foundation18_FormatSpecifiableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_ObjectiveCBridgeable",
+            "printedName": "_ObjectiveCBridgeable",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "_ObjectiveCType",
+                "printedName": "_ObjectiveCType",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "NSNumber",
+                    "printedName": "Foundation.NSNumber",
+                    "usr": "c:objc(cs)NSNumber"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:s21_ObjectiveCBridgeableP",
+            "mangledName": "$ss21_ObjectiveCBridgeableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "VectorArithmetic",
+            "printedName": "VectorArithmetic",
+            "usr": "s:7SwiftUI16VectorArithmeticP",
+            "mangledName": "$s7SwiftUI16VectorArithmeticP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_FormatSpecifiable",
+            "printedName": "_FormatSpecifiable",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "_Arg",
+                "printedName": "_Arg",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Double",
+                    "printedName": "Swift.Double",
+                    "usr": "s:Sd"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:7SwiftUI18_FormatSpecifiableP",
+            "mangledName": "$s7SwiftUI18_FormatSpecifiableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Animatable",
+            "printedName": "Animatable",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "AnimatableData",
+                "printedName": "AnimatableData",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Double",
+                    "printedName": "Swift.Double",
+                    "usr": "s:Sd"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:7SwiftUI10AnimatableP",
+            "mangledName": "$s7SwiftUI10AnimatableP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "CLLocationCoordinate2D",
+        "printedName": "CLLocationCoordinate2D",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "encode",
+            "printedName": "encode(to:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Encoder",
+                "printedName": "Swift.Encoder",
+                "usr": "s:s7EncoderP"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:So22CLLocationCoordinate2DV9iNaviMapsE6encode2toys7Encoder_p_tKF",
+            "mangledName": "$sSo22CLLocationCoordinate2DV9iNaviMapsE6encode2toys7Encoder_p_tKF",
+            "moduleName": "iNaviMaps",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "throwing": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(from:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "CLLocationCoordinate2D",
+                "printedName": "CoreLocation.CLLocationCoordinate2D",
+                "usr": "c:@S@CLLocationCoordinate2D"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Decoder",
+                "printedName": "Swift.Decoder",
+                "usr": "s:s7DecoderP"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:So22CLLocationCoordinate2DV9iNaviMapsE4fromABs7Decoder_p_tKcfc",
+            "mangledName": "$sSo22CLLocationCoordinate2DV9iNaviMapsE4fromABs7Decoder_p_tKcfc",
+            "moduleName": "iNaviMaps",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "throwing": true,
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "==",
+            "printedName": "==(_:_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CLLocationCoordinate2D",
+                "printedName": "CoreLocation.CLLocationCoordinate2D",
+                "usr": "c:@S@CLLocationCoordinate2D"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CLLocationCoordinate2D",
+                "printedName": "CoreLocation.CLLocationCoordinate2D",
+                "usr": "c:@S@CLLocationCoordinate2D"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:So22CLLocationCoordinate2DV9iNaviMapsE2eeoiySbAB_ABtFZ",
+            "mangledName": "$sSo22CLLocationCoordinate2DV9iNaviMapsE2eeoiySbAB_ABtFZ",
+            "moduleName": "iNaviMaps",
+            "static": true,
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Struct",
+        "usr": "c:@S@CLLocationCoordinate2D",
+        "moduleName": "CoreLocation",
+        "isExternal": true,
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Decodable",
+            "printedName": "Decodable",
+            "usr": "s:Se",
+            "mangledName": "$sSe"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Encodable",
+            "printedName": "Encodable",
+            "usr": "s:SE",
+            "mangledName": "$sSE"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_ObjectiveCBridgeable",
+            "printedName": "_ObjectiveCBridgeable",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "_ObjectiveCType",
+                "printedName": "_ObjectiveCType",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "NSValue",
+                    "printedName": "Foundation.NSValue",
+                    "usr": "c:objc(cs)NSValue"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:s21_ObjectiveCBridgeableP",
+            "mangledName": "$ss21_ObjectiveCBridgeableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "Int",
+        "printedName": "Int",
+        "declKind": "Struct",
+        "usr": "s:Si",
+        "mangledName": "$sSi",
+        "moduleName": "Swift",
+        "declAttributes": [
+          "Frozen"
+        ],
+        "isExternal": true,
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "FixedWidthInteger",
+            "printedName": "FixedWidthInteger",
+            "usr": "s:s17FixedWidthIntegerP",
+            "mangledName": "$ss17FixedWidthIntegerP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "SignedInteger",
+            "printedName": "SignedInteger",
+            "usr": "s:SZ",
+            "mangledName": "$sSZ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_ExpressibleByBuiltinIntegerLiteral",
+            "printedName": "_ExpressibleByBuiltinIntegerLiteral",
+            "usr": "s:s35_ExpressibleByBuiltinIntegerLiteralP",
+            "mangledName": "$ss35_ExpressibleByBuiltinIntegerLiteralP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "BinaryInteger",
+            "printedName": "BinaryInteger",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "Words",
+                "printedName": "Words",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Words",
+                    "printedName": "Swift.Int.Words",
+                    "usr": "s:Si5WordsV"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:Sz",
+            "mangledName": "$sSz"
+          },
+          {
+            "kind": "Conformance",
+            "name": "LosslessStringConvertible",
+            "printedName": "LosslessStringConvertible",
+            "usr": "s:s25LosslessStringConvertibleP",
+            "mangledName": "$ss25LosslessStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "SignedNumeric",
+            "printedName": "SignedNumeric",
+            "usr": "s:s13SignedNumericP",
+            "mangledName": "$ss13SignedNumericP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Numeric",
+            "printedName": "Numeric",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "Magnitude",
+                "printedName": "Magnitude",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UInt",
+                    "printedName": "Swift.UInt",
+                    "usr": "s:Su"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:Sj",
+            "mangledName": "$sSj"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Strideable",
+            "printedName": "Strideable",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "Stride",
+                "printedName": "Stride",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:Sx",
+            "mangledName": "$sSx"
+          },
+          {
+            "kind": "Conformance",
+            "name": "AdditiveArithmetic",
+            "printedName": "AdditiveArithmetic",
+            "usr": "s:s18AdditiveArithmeticP",
+            "mangledName": "$ss18AdditiveArithmeticP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "ExpressibleByIntegerLiteral",
+            "printedName": "ExpressibleByIntegerLiteral",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "IntegerLiteralType",
+                "printedName": "IntegerLiteralType",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:s27ExpressibleByIntegerLiteralP",
+            "mangledName": "$ss27ExpressibleByIntegerLiteralP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Comparable",
+            "printedName": "Comparable",
+            "usr": "s:SL",
+            "mangledName": "$sSL"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Decodable",
+            "printedName": "Decodable",
+            "usr": "s:Se",
+            "mangledName": "$sSe"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Encodable",
+            "printedName": "Encodable",
+            "usr": "s:SE",
+            "mangledName": "$sSE"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CodingKeyRepresentable",
+            "printedName": "CodingKeyRepresentable",
+            "usr": "s:s22CodingKeyRepresentableP",
+            "mangledName": "$ss22CodingKeyRepresentableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomReflectable",
+            "printedName": "CustomReflectable",
+            "usr": "s:s17CustomReflectableP",
+            "mangledName": "$ss17CustomReflectableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_CustomPlaygroundQuickLookable",
+            "printedName": "_CustomPlaygroundQuickLookable",
+            "usr": "s:s30_CustomPlaygroundQuickLookableP",
+            "mangledName": "$ss30_CustomPlaygroundQuickLookableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "MirrorPath",
+            "printedName": "MirrorPath",
+            "usr": "s:s10MirrorPathP",
+            "mangledName": "$ss10MirrorPathP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_HasCustomAnyHashableRepresentation",
+            "printedName": "_HasCustomAnyHashableRepresentation",
+            "usr": "s:s35_HasCustomAnyHashableRepresentationP",
+            "mangledName": "$ss35_HasCustomAnyHashableRepresentationP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "SIMDScalar",
+            "printedName": "SIMDScalar",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "SIMDMaskScalar",
+                "printedName": "SIMDMaskScalar",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeWitness",
+                "name": "SIMD2Storage",
+                "printedName": "SIMD2Storage",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "SIMD2Storage",
+                    "printedName": "Swift.Int.SIMD2Storage",
+                    "usr": "s:Si12SIMD2StorageV"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeWitness",
+                "name": "SIMD4Storage",
+                "printedName": "SIMD4Storage",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "SIMD4Storage",
+                    "printedName": "Swift.Int.SIMD4Storage",
+                    "usr": "s:Si12SIMD4StorageV"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeWitness",
+                "name": "SIMD8Storage",
+                "printedName": "SIMD8Storage",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "SIMD8Storage",
+                    "printedName": "Swift.Int.SIMD8Storage",
+                    "usr": "s:Si12SIMD8StorageV"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeWitness",
+                "name": "SIMD16Storage",
+                "printedName": "SIMD16Storage",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "SIMD16Storage",
+                    "printedName": "Swift.Int.SIMD16Storage",
+                    "usr": "s:Si13SIMD16StorageV"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeWitness",
+                "name": "SIMD32Storage",
+                "printedName": "SIMD32Storage",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "SIMD32Storage",
+                    "printedName": "Swift.Int.SIMD32Storage",
+                    "usr": "s:Si13SIMD32StorageV"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeWitness",
+                "name": "SIMD64Storage",
+                "printedName": "SIMD64Storage",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "SIMD64Storage",
+                    "printedName": "Swift.Int.SIMD64Storage",
+                    "usr": "s:Si13SIMD64StorageV"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:s10SIMDScalarP",
+            "mangledName": "$ss10SIMDScalarP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_FormatSpecifiable",
+            "printedName": "_FormatSpecifiable",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "_Arg",
+                "printedName": "_Arg",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int64",
+                    "printedName": "Swift.Int64",
+                    "usr": "s:s5Int64V"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:10Foundation18_FormatSpecifiableP",
+            "mangledName": "$s10Foundation18_FormatSpecifiableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_ObjectiveCBridgeable",
+            "printedName": "_ObjectiveCBridgeable",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "_ObjectiveCType",
+                "printedName": "_ObjectiveCType",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "NSNumber",
+                    "printedName": "Foundation.NSNumber",
+                    "usr": "c:objc(cs)NSNumber"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:s21_ObjectiveCBridgeableP",
+            "mangledName": "$ss21_ObjectiveCBridgeableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_FormatSpecifiable",
+            "printedName": "_FormatSpecifiable",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "_Arg",
+                "printedName": "_Arg",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int64",
+                    "printedName": "Swift.Int64",
+                    "usr": "s:s5Int64V"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:7SwiftUI18_FormatSpecifiableP",
+            "mangledName": "$s7SwiftUI18_FormatSpecifiableP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "String",
+        "printedName": "String",
+        "declKind": "Struct",
+        "usr": "s:SS",
+        "mangledName": "$sSS",
+        "moduleName": "Swift",
+        "declAttributes": [
+          "Frozen"
+        ],
+        "isExternal": true,
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Decodable",
+            "printedName": "Decodable",
+            "usr": "s:Se",
+            "mangledName": "$sSe"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Encodable",
+            "printedName": "Encodable",
+            "usr": "s:SE",
+            "mangledName": "$sSE"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CodingKeyRepresentable",
+            "printedName": "CodingKeyRepresentable",
+            "usr": "s:s22CodingKeyRepresentableP",
+            "mangledName": "$ss22CodingKeyRepresentableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_HasContiguousBytes",
+            "printedName": "_HasContiguousBytes",
+            "usr": "s:s19_HasContiguousBytesP",
+            "mangledName": "$ss19_HasContiguousBytesP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomReflectable",
+            "printedName": "CustomReflectable",
+            "usr": "s:s17CustomReflectableP",
+            "mangledName": "$ss17CustomReflectableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_CustomPlaygroundQuickLookable",
+            "printedName": "_CustomPlaygroundQuickLookable",
+            "usr": "s:s30_CustomPlaygroundQuickLookableP",
+            "mangledName": "$ss30_CustomPlaygroundQuickLookableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "TextOutputStream",
+            "printedName": "TextOutputStream",
+            "usr": "s:s16TextOutputStreamP",
+            "mangledName": "$ss16TextOutputStreamP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "TextOutputStreamable",
+            "printedName": "TextOutputStreamable",
+            "usr": "s:s20TextOutputStreamableP",
+            "mangledName": "$ss20TextOutputStreamableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_ExpressibleByBuiltinUnicodeScalarLiteral",
+            "printedName": "_ExpressibleByBuiltinUnicodeScalarLiteral",
+            "usr": "s:s41_ExpressibleByBuiltinUnicodeScalarLiteralP",
+            "mangledName": "$ss41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_ExpressibleByBuiltinExtendedGraphemeClusterLiteral",
+            "printedName": "_ExpressibleByBuiltinExtendedGraphemeClusterLiteral",
+            "usr": "s:s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP",
+            "mangledName": "$ss51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_ExpressibleByBuiltinStringLiteral",
+            "printedName": "_ExpressibleByBuiltinStringLiteral",
+            "usr": "s:s34_ExpressibleByBuiltinStringLiteralP",
+            "mangledName": "$ss34_ExpressibleByBuiltinStringLiteralP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "ExpressibleByStringLiteral",
+            "printedName": "ExpressibleByStringLiteral",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "StringLiteralType",
+                "printedName": "StringLiteralType",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:s26ExpressibleByStringLiteralP",
+            "mangledName": "$ss26ExpressibleByStringLiteralP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "ExpressibleByExtendedGraphemeClusterLiteral",
+            "printedName": "ExpressibleByExtendedGraphemeClusterLiteral",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "ExtendedGraphemeClusterLiteralType",
+                "printedName": "ExtendedGraphemeClusterLiteralType",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:s43ExpressibleByExtendedGraphemeClusterLiteralP",
+            "mangledName": "$ss43ExpressibleByExtendedGraphemeClusterLiteralP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "ExpressibleByUnicodeScalarLiteral",
+            "printedName": "ExpressibleByUnicodeScalarLiteral",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "UnicodeScalarLiteralType",
+                "printedName": "UnicodeScalarLiteralType",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:s33ExpressibleByUnicodeScalarLiteralP",
+            "mangledName": "$ss33ExpressibleByUnicodeScalarLiteralP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "BidirectionalCollection",
+            "printedName": "BidirectionalCollection",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "Element",
+                "printedName": "Element",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Character",
+                    "printedName": "Swift.Character",
+                    "usr": "s:SJ"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeWitness",
+                "name": "Index",
+                "printedName": "Index",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Index",
+                    "printedName": "Swift.String.Index",
+                    "usr": "s:SS5IndexV"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeWitness",
+                "name": "SubSequence",
+                "printedName": "SubSequence",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Substring",
+                    "printedName": "Swift.Substring",
+                    "usr": "s:Ss"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeWitness",
+                "name": "Indices",
+                "printedName": "Indices",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "DefaultIndices",
+                    "printedName": "Swift.DefaultIndices<Swift.String>",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:SI"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:SK",
+            "mangledName": "$sSK"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Collection",
+            "printedName": "Collection",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "Element",
+                "printedName": "Element",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Character",
+                    "printedName": "Swift.Character",
+                    "usr": "s:SJ"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeWitness",
+                "name": "Index",
+                "printedName": "Index",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Index",
+                    "printedName": "Swift.String.Index",
+                    "usr": "s:SS5IndexV"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeWitness",
+                "name": "Iterator",
+                "printedName": "Iterator",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Iterator",
+                    "printedName": "Swift.String.Iterator",
+                    "usr": "s:SS8IteratorV"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeWitness",
+                "name": "SubSequence",
+                "printedName": "SubSequence",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Substring",
+                    "printedName": "Swift.Substring",
+                    "usr": "s:Ss"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeWitness",
+                "name": "Indices",
+                "printedName": "Indices",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "DefaultIndices",
+                    "printedName": "Swift.DefaultIndices<Swift.String>",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:SI"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:Sl",
+            "mangledName": "$sSl"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sequence",
+            "printedName": "Sequence",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "Element",
+                "printedName": "Element",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Character",
+                    "printedName": "Swift.Character",
+                    "usr": "s:SJ"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeWitness",
+                "name": "Iterator",
+                "printedName": "Iterator",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Iterator",
+                    "printedName": "Swift.String.Iterator",
+                    "usr": "s:SS8IteratorV"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:ST",
+            "mangledName": "$sST"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Comparable",
+            "printedName": "Comparable",
+            "usr": "s:SL",
+            "mangledName": "$sSL"
+          },
+          {
+            "kind": "Conformance",
+            "name": "StringProtocol",
+            "printedName": "StringProtocol",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "UTF8View",
+                "printedName": "UTF8View",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UTF8View",
+                    "printedName": "Swift.String.UTF8View",
+                    "usr": "s:SS8UTF8ViewV"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeWitness",
+                "name": "UTF16View",
+                "printedName": "UTF16View",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UTF16View",
+                    "printedName": "Swift.String.UTF16View",
+                    "usr": "s:SS9UTF16ViewV"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeWitness",
+                "name": "UnicodeScalarView",
+                "printedName": "UnicodeScalarView",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UnicodeScalarView",
+                    "printedName": "Swift.String.UnicodeScalarView",
+                    "usr": "s:SS17UnicodeScalarViewV"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeWitness",
+                "name": "SubSequence",
+                "printedName": "SubSequence",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Substring",
+                    "printedName": "Swift.Substring",
+                    "usr": "s:Ss"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:Sy",
+            "mangledName": "$sSy"
+          },
+          {
+            "kind": "Conformance",
+            "name": "ExpressibleByStringInterpolation",
+            "printedName": "ExpressibleByStringInterpolation",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "StringInterpolation",
+                "printedName": "StringInterpolation",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "DefaultStringInterpolation",
+                    "printedName": "Swift.DefaultStringInterpolation",
+                    "usr": "s:s26DefaultStringInterpolationV"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:s32ExpressibleByStringInterpolationP",
+            "mangledName": "$ss32ExpressibleByStringInterpolationP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "LosslessStringConvertible",
+            "printedName": "LosslessStringConvertible",
+            "usr": "s:s25LosslessStringConvertibleP",
+            "mangledName": "$ss25LosslessStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "RangeReplaceableCollection",
+            "printedName": "RangeReplaceableCollection",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "SubSequence",
+                "printedName": "SubSequence",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Substring",
+                    "printedName": "Swift.Substring",
+                    "usr": "s:Ss"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:Sm",
+            "mangledName": "$sSm"
+          },
+          {
+            "kind": "Conformance",
+            "name": "MirrorPath",
+            "printedName": "MirrorPath",
+            "usr": "s:s10MirrorPathP",
+            "mangledName": "$ss10MirrorPathP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_ObjectiveCBridgeable",
+            "printedName": "_ObjectiveCBridgeable",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "_ObjectiveCType",
+                "printedName": "_ObjectiveCType",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "NSString",
+                    "printedName": "Foundation.NSString",
+                    "usr": "c:objc(cs)NSString"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:s21_ObjectiveCBridgeableP",
+            "mangledName": "$ss21_ObjectiveCBridgeableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Transferable",
+            "printedName": "Transferable",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "Representation",
+                "printedName": "Representation",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "OpaqueTypeArchetype",
+                    "printedName": "some CoreTransferable.TransferRepresentation",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "TransferRepresentation",
+                        "printedName": "CoreTransferable.TransferRepresentation",
+                        "usr": "s:16CoreTransferable22TransferRepresentationP"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Sendable",
+                        "printedName": "Swift.Sendable",
+                        "usr": "s:s8SendableP"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "usr": "s:16CoreTransferable0B0P",
+            "mangledName": "$s16CoreTransferable0B0P"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "Bool",
+        "printedName": "Bool",
+        "declKind": "Struct",
+        "usr": "s:Sb",
+        "mangledName": "$sSb",
+        "moduleName": "Swift",
+        "declAttributes": [
+          "Frozen"
+        ],
+        "isExternal": true,
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_ExpressibleByBuiltinBooleanLiteral",
+            "printedName": "_ExpressibleByBuiltinBooleanLiteral",
+            "usr": "s:s35_ExpressibleByBuiltinBooleanLiteralP",
+            "mangledName": "$ss35_ExpressibleByBuiltinBooleanLiteralP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "ExpressibleByBooleanLiteral",
+            "printedName": "ExpressibleByBooleanLiteral",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "BooleanLiteralType",
+                "printedName": "BooleanLiteralType",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:s27ExpressibleByBooleanLiteralP",
+            "mangledName": "$ss27ExpressibleByBooleanLiteralP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "LosslessStringConvertible",
+            "printedName": "LosslessStringConvertible",
+            "usr": "s:s25LosslessStringConvertibleP",
+            "mangledName": "$ss25LosslessStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Decodable",
+            "printedName": "Decodable",
+            "usr": "s:Se",
+            "mangledName": "$sSe"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Encodable",
+            "printedName": "Encodable",
+            "usr": "s:SE",
+            "mangledName": "$sSE"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomReflectable",
+            "printedName": "CustomReflectable",
+            "usr": "s:s17CustomReflectableP",
+            "mangledName": "$ss17CustomReflectableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_CustomPlaygroundQuickLookable",
+            "printedName": "_CustomPlaygroundQuickLookable",
+            "usr": "s:s30_CustomPlaygroundQuickLookableP",
+            "mangledName": "$ss30_CustomPlaygroundQuickLookableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_ObjectiveCBridgeable",
+            "printedName": "_ObjectiveCBridgeable",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "_ObjectiveCType",
+                "printedName": "_ObjectiveCType",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "NSNumber",
+                    "printedName": "Foundation.NSNumber",
+                    "usr": "c:objc(cs)NSNumber"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:s21_ObjectiveCBridgeableP",
+            "mangledName": "$ss21_ObjectiveCBridgeableP"
+          }
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/Turf.swift",
+      "kind": "FloatLiteral",
+      "offset": 104,
+      "length": 11,
+      "value": "6373000.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/Turf.swift",
+      "kind": "IntegerLiteral",
+      "offset": 252,
+      "length": 9,
+      "value": "6378137"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/Turf.swift",
+      "kind": "IntegerLiteral",
+      "offset": 968,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/Turf.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1914,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/Turf.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1923,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/Turf.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2024,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/Turf.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2033,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/Turf.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2435,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/Ring.swift",
+      "kind": "IntegerLiteral",
+      "offset": 880,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/Ring.swift",
+      "kind": "IntegerLiteral",
+      "offset": 975,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/Ring.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1004,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/Ring.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1216,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/Ring.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1288,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/Ring.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1360,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/Ring.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1413,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/Ring.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1471,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/Ring.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1543,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/Ring.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1596,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/Ring.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1649,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/Ring.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1792,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/Ring.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1853,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/Ring.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2125,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/Ring.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2652,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/Ring.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2746,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/Ring.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2861,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/Ring.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2973,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/Ring.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3004,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/Ring.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3326,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/Ring.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3410,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/Ring.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3476,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/Ring.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3867,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/RadianCoordinate2D.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2097,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/RadianCoordinate2D.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2101,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/RadianCoordinate2D.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2168,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/RadianCoordinate2D.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2172,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/RadianCoordinate2D.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2238,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/RadianCoordinate2D.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2262,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/Spline.swift",
+      "kind": "IntegerLiteral",
+      "offset": 299,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/Spline.swift",
+      "kind": "IntegerLiteral",
+      "offset": 786,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/Spline.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1013,
+      "length": 2,
+      "value": "60"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/Spline.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1049,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/Spline.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1272,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/Spline.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1292,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/Spline.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1394,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/Spline.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1463,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/Spline.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1495,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/Spline.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1527,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/Spline.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1595,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/Spline.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1616,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/Spline.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1722,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/Spline.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1768,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/Spline.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1834,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/Spline.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1899,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/Spline.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1964,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/Spline.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2009,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/Spline.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2112,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/Spline.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2215,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/Spline.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2318,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/Spline.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2425,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/Spline.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2532,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/Spline.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2739,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/Spline.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2872,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/Spline.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2896,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/Spline.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2929,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/Spline.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2950,
+      "length": 2,
+      "value": "10"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/Spline.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3401,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/Spline.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3471,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/Spline.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3554,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/Spline.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3644,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/Spline.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3692,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/Spline.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3823,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/Spline.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3848,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/Spline.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4451,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/Spline.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4461,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/Spline.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4471,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/Spline.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4480,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/Spline.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4490,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/Spline.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4501,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/Spline.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4511,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/Spline.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4521,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/Spline.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4693,
+      "length": 5,
+      "value": "10000"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/Spline.swift",
+      "kind": "FloatLiteral",
+      "offset": 4720,
+      "length": 4,
+      "value": "0.85"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/Spline.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5117,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/Spline.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5140,
+      "length": 2,
+      "value": "10"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/Spline.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5189,
+      "length": 3,
+      "value": "100"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/Spline.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5197,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/Spline.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5202,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "IntegerLiteral",
+      "offset": 263,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "IntegerLiteral",
+      "offset": 282,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "IntegerLiteral",
+      "offset": 301,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "IntegerLiteral",
+      "offset": 400,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "IntegerLiteral",
+      "offset": 748,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "IntegerLiteral",
+      "offset": 773,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "IntegerLiteral",
+      "offset": 795,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "IntegerLiteral",
+      "offset": 820,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "IntegerLiteral",
+      "offset": 844,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "IntegerLiteral",
+      "offset": 895,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "IntegerLiteral",
+      "offset": 905,
+      "length": 1,
+      "value": "5"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "IntegerLiteral",
+      "offset": 951,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "IntegerLiteral",
+      "offset": 961,
+      "length": 1,
+      "value": "5"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1008,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1018,
+      "length": 1,
+      "value": "5"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1065,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1075,
+      "length": 1,
+      "value": "5"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1122,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1132,
+      "length": 1,
+      "value": "5"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 1164,
+      "length": 12,
+      "value": "0.0000000001"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1225,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1235,
+      "length": 1,
+      "value": "5"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1286,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1296,
+      "length": 1,
+      "value": "5"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1358,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1368,
+      "length": 1,
+      "value": "5"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1423,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1433,
+      "length": 1,
+      "value": "5"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1488,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1498,
+      "length": 1,
+      "value": "5"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1557,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1567,
+      "length": 1,
+      "value": "5"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1625,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1635,
+      "length": 1,
+      "value": "5"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1694,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1704,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1752,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 1783,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 1816,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 1853,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 1889,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 1918,
+      "length": 9,
+      "value": "6378137.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 1953,
+      "length": 12,
+      "value": "6356752.3142"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 2008,
+      "length": 6,
+      "value": "0.9999"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 2046,
+      "length": 16,
+      "value": "2.23402144255274"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 2101,
+      "length": 17,
+      "value": "0.663225115757845"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 2154,
+      "length": 8,
+      "value": "600000.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 2197,
+      "length": 8,
+      "value": "400000.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 2233,
+      "length": 11,
+      "value": "6377397.155"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 2272,
+      "length": 18,
+      "value": "6356078.9633422494"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 2330,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 2421,
+      "length": 16,
+      "value": "2.21661859489671"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 2488,
+      "length": 17,
+      "value": "0.663225115757845"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 2538,
+      "length": 8,
+      "value": "500000.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 2578,
+      "length": 8,
+      "value": "200000.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 2611,
+      "length": 11,
+      "value": "6377397.155"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 2647,
+      "length": 18,
+      "value": "6356078.9633422494"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 2708,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 2752,
+      "length": 16,
+      "value": "2.21656815003280"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 2879,
+      "length": 17,
+      "value": "0.663225115757845"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 2932,
+      "length": 8,
+      "value": "500000.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 2975,
+      "length": 8,
+      "value": "200000.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 3011,
+      "length": 9,
+      "value": "6378137.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 3048,
+      "length": 12,
+      "value": "6356752.3142"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 3102,
+      "length": 6,
+      "value": "0.9996"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 3211,
+      "length": 16,
+      "value": "2.22529479629277"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 3267,
+      "length": 17,
+      "value": "0.663225115757845"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 3319,
+      "length": 9,
+      "value": "2000000.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 3362,
+      "length": 9,
+      "value": "1000000.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 3398,
+      "length": 9,
+      "value": "6378137.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 3434,
+      "length": 18,
+      "value": "6356752.3141403558"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3483,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 3488,
+      "length": 7,
+      "value": "-146.43"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3517,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 3522,
+      "length": 6,
+      "value": "507.89"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3550,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 3555,
+      "length": 6,
+      "value": "681.46"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 3642,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 3693,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 3743,
+      "length": 7,
+      "value": "0.00001"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 3778,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 3825,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 3922,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 3977,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 4031,
+      "length": 7,
+      "value": "0.00001"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 4068,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 4117,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 4205,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 4254,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 4302,
+      "length": 7,
+      "value": "0.00001"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 4336,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 4382,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 4476,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 4529,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 4581,
+      "length": 7,
+      "value": "0.00001"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 4617,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 4665,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 4762,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 4817,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 4871,
+      "length": 7,
+      "value": "0.00001"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 4908,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 4957,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 6780,
+      "length": 5,
+      "value": "180.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 6867,
+      "length": 5,
+      "value": "180.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 6953,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 6959,
+      "length": 4,
+      "value": "0.25"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 6971,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 6981,
+      "length": 4,
+      "value": "16.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 6989,
+      "length": 3,
+      "value": "3.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 6995,
+      "length": 4,
+      "value": "1.25"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 7074,
+      "length": 5,
+      "value": "0.375"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 7087,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 7093,
+      "length": 4,
+      "value": "0.25"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 7105,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 7111,
+      "length": 7,
+      "value": "0.46875"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 7193,
+      "length": 10,
+      "value": "0.05859375"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 7215,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 7221,
+      "length": 4,
+      "value": "0.75"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 7312,
+      "length": 4,
+      "value": "35.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 7319,
+      "length": 6,
+      "value": "3072.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 7461,
+      "length": 3,
+      "value": "2.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 7483,
+      "length": 3,
+      "value": "4.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 7505,
+      "length": 3,
+      "value": "6.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 7625,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7661,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7665,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7668,
+      "length": 2,
+      "value": "-1"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "IntegerLiteral",
+      "offset": 8813,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 8907,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "IntegerLiteral",
+      "offset": 9098,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 9120,
+      "length": 3,
+      "value": "0.5"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 9179,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 9191,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 9268,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "IntegerLiteral",
+      "offset": 9321,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "IntegerLiteral",
+      "offset": 9354,
+      "length": 2,
+      "value": "-1"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 9727,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 10065,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 10077,
+      "length": 3,
+      "value": "6.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 10084,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 10104,
+      "length": 4,
+      "value": "20.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 10112,
+      "length": 3,
+      "value": "5.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 10118,
+      "length": 4,
+      "value": "18.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 10137,
+      "length": 4,
+      "value": "72.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 10148,
+      "length": 4,
+      "value": "58.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 10288,
+      "length": 3,
+      "value": "0.5"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 10300,
+      "length": 4,
+      "value": "24.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 10308,
+      "length": 3,
+      "value": "5.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 10318,
+      "length": 3,
+      "value": "9.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 10328,
+      "length": 3,
+      "value": "4.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 10348,
+      "length": 4,
+      "value": "30.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 10356,
+      "length": 4,
+      "value": "61.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 10363,
+      "length": 4,
+      "value": "58.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 10382,
+      "length": 5,
+      "value": "600.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 10394,
+      "length": 5,
+      "value": "330.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "IntegerLiteral",
+      "offset": 10501,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "IntegerLiteral",
+      "offset": 10515,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "IntegerLiteral",
+      "offset": 10728,
+      "length": 1,
+      "value": "6"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "IntegerLiteral",
+      "offset": 10768,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 10889,
+      "length": 3,
+      "value": "0.5"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 10900,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 11094,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 11110,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "IntegerLiteral",
+      "offset": 11200,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "IntegerLiteral",
+      "offset": 11232,
+      "length": 2,
+      "value": "-1"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "IntegerLiteral",
+      "offset": 11284,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "IntegerLiteral",
+      "offset": 11296,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "IntegerLiteral",
+      "offset": 11740,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "BooleanLiteral",
+      "offset": 11766,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 11846,
+      "length": 3,
+      "value": "2.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 11888,
+      "length": 3,
+      "value": "4.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 11930,
+      "length": 3,
+      "value": "6.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "IntegerLiteral",
+      "offset": 12312,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "IntegerLiteral",
+      "offset": 12368,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 12648,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 12765,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 12936,
+      "length": 3,
+      "value": "0.5"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 12947,
+      "length": 4,
+      "value": "24.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 12955,
+      "length": 3,
+      "value": "5.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 12961,
+      "length": 3,
+      "value": "3.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 12971,
+      "length": 4,
+      "value": "10.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 12982,
+      "length": 3,
+      "value": "4.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 12993,
+      "length": 3,
+      "value": "9.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 13021,
+      "length": 4,
+      "value": "30.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 13029,
+      "length": 4,
+      "value": "61.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 13036,
+      "length": 4,
+      "value": "90.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 13047,
+      "length": 5,
+      "value": "298.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 13059,
+      "length": 4,
+      "value": "45.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 13071,
+      "length": 5,
+      "value": "252.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 13096,
+      "length": 3,
+      "value": "3.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 13162,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 13173,
+      "length": 3,
+      "value": "6.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 13180,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 13186,
+      "length": 3,
+      "value": "2.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 13205,
+      "length": 4,
+      "value": "20.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 13213,
+      "length": 3,
+      "value": "5.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 13219,
+      "length": 3,
+      "value": "2.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 13229,
+      "length": 4,
+      "value": "28.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 13240,
+      "length": 3,
+      "value": "3.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 13251,
+      "length": 3,
+      "value": "8.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 13274,
+      "length": 4,
+      "value": "24.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 13358,
+      "length": 3,
+      "value": "0.5"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 13905,
+      "length": 3,
+      "value": "2.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "IntegerLiteral",
+      "offset": 13911,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 13960,
+      "length": 3,
+      "value": "2.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "IntegerLiteral",
+      "offset": 13966,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 13984,
+      "length": 6,
+      "value": "6376.5"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 13993,
+      "length": 3,
+      "value": "2.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 14019,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "IntegerLiteral",
+      "offset": 15231,
+      "length": 4,
+      "value": "3600"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "IntegerLiteral",
+      "offset": 15249,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "IntegerLiteral",
+      "offset": 15383,
+      "length": 2,
+      "value": "60"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 15433,
+      "length": 3,
+      "value": "0.5"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 15483,
+      "length": 19,
+      "value": "0.38268343236508977"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 15563,
+      "length": 9,
+      "value": "1.0026000"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "IntegerLiteral",
+      "offset": 15781,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "IntegerLiteral",
+      "offset": 15838,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "IntegerLiteral",
+      "offset": 16073,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "IntegerLiteral",
+      "offset": 16216,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 18082,
+      "length": 6,
+      "value": "-1.001"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 18192,
+      "length": 5,
+      "value": "1.001"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "BooleanLiteral",
+      "offset": 18362,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "IntegerLiteral",
+      "offset": 18471,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 18634,
+      "length": 5,
+      "value": "1.0e0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "IntegerLiteral",
+      "offset": 18792,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "BooleanLiteral",
+      "offset": 18901,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 19356,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "BooleanLiteral",
+      "offset": 20353,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 20375,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "IntegerLiteral",
+      "offset": 20461,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "IntegerLiteral",
+      "offset": 20541,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "BooleanLiteral",
+      "offset": 20642,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 20675,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 20702,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 20812,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 21546,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "FloatLiteral",
+      "offset": 21815,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "BooleanLiteral",
+      "offset": 21852,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "IntegerLiteral",
+      "offset": 22461,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "IntegerLiteral",
+      "offset": 22493,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "IntegerLiteral",
+      "offset": 22525,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "IntegerLiteral",
+      "offset": 22978,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "IntegerLiteral",
+      "offset": 23010,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "kind": "IntegerLiteral",
+      "offset": 23042,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/CoreLocation.swift",
+      "kind": "FloatLiteral",
+      "offset": 773,
+      "length": 5,
+      "value": "180.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/CoreLocation.swift",
+      "kind": "FloatLiteral",
+      "offset": 913,
+      "length": 5,
+      "value": "180.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/CoreLocation.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1320,
+      "length": 3,
+      "value": "360"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/CoreLocation.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1346,
+      "length": 3,
+      "value": "180"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/CoreLocation.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1352,
+      "length": 3,
+      "value": "360"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/GeoJSON.swift",
+      "kind": "StringLiteral",
+      "offset": 107,
+      "length": 9,
+      "value": "\"Feature\""
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/GeoJSON.swift",
+      "kind": "StringLiteral",
+      "offset": 146,
+      "length": 19,
+      "value": "\"FeatureCollection\""
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/GeoJSON.swift",
+      "kind": "StringLiteral",
+      "offset": 107,
+      "length": 9,
+      "value": "\"Feature\""
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/GeoJSON.swift",
+      "kind": "StringLiteral",
+      "offset": 146,
+      "length": 19,
+      "value": "\"FeatureCollection\""
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/GeoJSON.swift",
+      "kind": "StringLiteral",
+      "offset": 821,
+      "length": 4,
+      "value": "\"id\""
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/GeoJSON.swift",
+      "kind": "StringLiteral",
+      "offset": 821,
+      "length": 4,
+      "value": "\"id\""
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/GeoJSON.swift",
+      "kind": "StringLiteral",
+      "offset": 3414,
+      "length": 10,
+      "value": "\"geometry\""
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/GeoJSON.swift",
+      "kind": "StringLiteral",
+      "offset": 3414,
+      "length": 10,
+      "value": "\"geometry\""
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/Polygon.swift",
+      "kind": "IntegerLiteral",
+      "offset": 478,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/Polygon.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1926,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/Polygon.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2506,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/Polygon.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2623,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/Polygon.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2655,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/Polygon.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2774,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/Polygon.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2974,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/Polygon.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3037,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/LineString.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1592,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/LineString.swift",
+      "kind": "Array",
+      "offset": 1617,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/LineString.swift",
+      "kind": "Array",
+      "offset": 1677,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/LineString.swift",
+      "kind": "Array",
+      "offset": 1757,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/LineString.swift",
+      "kind": "FloatLiteral",
+      "offset": 1781,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/LineString.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1882,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/LineString.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1950,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/LineString.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2024,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/LineString.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2382,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/LineString.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2388,
+      "length": 3,
+      "value": "180"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/LineString.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2608,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/LineString.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3013,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/LineString.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3019,
+      "length": 3,
+      "value": "180"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/LineString.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3263,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/LineString.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3439,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/LineString.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3785,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/LineString.swift",
+      "kind": "Array",
+      "offset": 3824,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/LineString.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3975,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/LineString.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4357,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/LineString.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4739,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/LineString.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4800,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/LineString.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6678,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/LineString.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6809,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/LineString.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6892,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/LineString.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6905,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/LineString.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6944,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/LineString.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7033,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/LineString.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7213,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/LineString.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7432,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/LineString.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7438,
+      "length": 3,
+      "value": "180"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/LineString.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7611,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/LineString.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7729,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/LineString.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7846,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/LineString.swift",
+      "kind": "IntegerLiteral",
+      "offset": 8302,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/LineString.swift",
+      "kind": "IntegerLiteral",
+      "offset": 8489,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/LineString.swift",
+      "kind": "IntegerLiteral",
+      "offset": 8524,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/LineString.swift",
+      "kind": "IntegerLiteral",
+      "offset": 8596,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/LineString.swift",
+      "kind": "Array",
+      "offset": 9021,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/LineString.swift",
+      "kind": "IntegerLiteral",
+      "offset": 9183,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/LineString.swift",
+      "kind": "IntegerLiteral",
+      "offset": 9196,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/LineString.swift",
+      "kind": "IntegerLiteral",
+      "offset": 9368,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/LineString.swift",
+      "kind": "Array",
+      "offset": 9654,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/LineString.swift",
+      "kind": "IntegerLiteral",
+      "offset": 9692,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/LineString.swift",
+      "kind": "IntegerLiteral",
+      "offset": 9756,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/LineString.swift",
+      "kind": "IntegerLiteral",
+      "offset": 10522,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/LineString.swift",
+      "kind": "IntegerLiteral",
+      "offset": 10607,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/LineString.swift",
+      "kind": "IntegerLiteral",
+      "offset": 10764,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/LineString.swift",
+      "kind": "IntegerLiteral",
+      "offset": 10788,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/LineString.swift",
+      "kind": "IntegerLiteral",
+      "offset": 10859,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/LineString.swift",
+      "kind": "IntegerLiteral",
+      "offset": 11197,
+      "length": 2,
+      "value": "90"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/LineString.swift",
+      "kind": "IntegerLiteral",
+      "offset": 11298,
+      "length": 2,
+      "value": "90"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/LineString.swift",
+      "kind": "IntegerLiteral",
+      "offset": 11951,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/Codable.swift",
+      "kind": "StringLiteral",
+      "offset": 1513,
+      "length": 23,
+      "value": "\"Unsupported JSON type\""
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/FeatureCollection.swift",
+      "kind": "Array",
+      "offset": 190,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/INVTurfHelper.swift",
+      "kind": "IntegerLiteral",
+      "offset": 228,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/INVTurfHelper.swift",
+      "kind": "IntegerLiteral",
+      "offset": 263,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/INVTurfHelper.swift",
+      "kind": "IntegerLiteral",
+      "offset": 323,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/INVTurfHelper.swift",
+      "kind": "IntegerLiteral",
+      "offset": 334,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/INVTurfHelper.swift",
+      "kind": "IntegerLiteral",
+      "offset": 342,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/INVTurfHelper.swift",
+      "kind": "IntegerLiteral",
+      "offset": 353,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/INVTurfHelper.swift",
+      "kind": "IntegerLiteral",
+      "offset": 363,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/INVTurfHelper.swift",
+      "kind": "IntegerLiteral",
+      "offset": 323,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/INVTurfHelper.swift",
+      "kind": "IntegerLiteral",
+      "offset": 334,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/INVTurfHelper.swift",
+      "kind": "IntegerLiteral",
+      "offset": 342,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/INVTurfHelper.swift",
+      "kind": "IntegerLiteral",
+      "offset": 353,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/INVTurfHelper.swift",
+      "kind": "IntegerLiteral",
+      "offset": 363,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/INVTurfHelper.swift",
+      "kind": "StringLiteral",
+      "offset": 461,
+      "length": 12,
+      "value": "\"printHello\""
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/INVTurfHelper.swift",
+      "kind": "IntegerLiteral",
+      "offset": 828,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/INVTurfHelper.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1507,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/INVTurfHelper.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1693,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/BoundingBox.swift",
+      "kind": "IntegerLiteral",
+      "offset": 189,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/platform\/ios\/turf-swift\/BoundingBox.swift",
+      "kind": "IntegerLiteral",
+      "offset": 193,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/build\/ios\/ArchiveIntermediates\/dynamic\/IntermediateBuildFilesPath\/ios.build\/RelWithDebInfo-iphoneos\/dynamic.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 727,
+      "length": 9,
+      "value": "\"Compass\""
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/build\/ios\/ArchiveIntermediates\/dynamic\/IntermediateBuildFilesPath\/ios.build\/RelWithDebInfo-iphoneos\/dynamic.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 864,
+      "length": 11,
+      "value": "\"crosshair\""
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/build\/ios\/ArchiveIntermediates\/dynamic\/IntermediateBuildFilesPath\/ios.build\/RelWithDebInfo-iphoneos\/dynamic.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 1012,
+      "length": 16,
+      "value": "\"default_marker\""
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/build\/ios\/ArchiveIntermediates\/dynamic\/IntermediateBuildFilesPath\/ios.build\/RelWithDebInfo-iphoneos\/dynamic.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 1182,
+      "length": 25,
+      "value": "\"inavimap_compass_normal\""
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/build\/ios\/ArchiveIntermediates\/dynamic\/IntermediateBuildFilesPath\/ios.build\/RelWithDebInfo-iphoneos\/dynamic.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 1363,
+      "length": 26,
+      "value": "\"inavimap_compass_pressed\""
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/build\/ios\/ArchiveIntermediates\/dynamic\/IntermediateBuildFilesPath\/ios.build\/RelWithDebInfo-iphoneos\/dynamic.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 1586,
+      "length": 48,
+      "value": "\"inavimap_default_info_window_background_center\""
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/build\/ios\/ArchiveIntermediates\/dynamic\/IntermediateBuildFilesPath\/ios.build\/RelWithDebInfo-iphoneos\/dynamic.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 1827,
+      "length": 46,
+      "value": "\"inavimap_default_info_window_background_left\""
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/build\/ios\/ArchiveIntermediates\/dynamic\/IntermediateBuildFilesPath\/ios.build\/RelWithDebInfo-iphoneos\/dynamic.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 2068,
+      "length": 47,
+      "value": "\"inavimap_default_info_window_background_right\""
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/build\/ios\/ArchiveIntermediates\/dynamic\/IntermediateBuildFilesPath\/ios.build\/RelWithDebInfo-iphoneos\/dynamic.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 2282,
+      "length": 32,
+      "value": "\"inavimap_default_location_icon\""
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/build\/ios\/ArchiveIntermediates\/dynamic\/IntermediateBuildFilesPath\/ios.build\/RelWithDebInfo-iphoneos\/dynamic.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 2498,
+      "length": 41,
+      "value": "\"inavimap_default_location_icon_tracking\""
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/build\/ios\/ArchiveIntermediates\/dynamic\/IntermediateBuildFilesPath\/ios.build\/RelWithDebInfo-iphoneos\/dynamic.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 2738,
+      "length": 49,
+      "value": "\"inavimap_default_location_icon_tracking_compass\""
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/build\/ios\/ArchiveIntermediates\/dynamic\/IntermediateBuildFilesPath\/ios.build\/RelWithDebInfo-iphoneos\/dynamic.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 2959,
+      "length": 35,
+      "value": "\"inavimap_default_marker_icon_blue\""
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/build\/ios\/ArchiveIntermediates\/dynamic\/IntermediateBuildFilesPath\/ios.build\/RelWithDebInfo-iphoneos\/dynamic.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 3166,
+      "length": 35,
+      "value": "\"inavimap_default_marker_icon_gray\""
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/build\/ios\/ArchiveIntermediates\/dynamic\/IntermediateBuildFilesPath\/ios.build\/RelWithDebInfo-iphoneos\/dynamic.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 3375,
+      "length": 36,
+      "value": "\"inavimap_default_marker_icon_green\""
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/build\/ios\/ArchiveIntermediates\/dynamic\/IntermediateBuildFilesPath\/ios.build\/RelWithDebInfo-iphoneos\/dynamic.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 3581,
+      "length": 34,
+      "value": "\"inavimap_default_marker_icon_red\""
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/build\/ios\/ArchiveIntermediates\/dynamic\/IntermediateBuildFilesPath\/ios.build\/RelWithDebInfo-iphoneos\/dynamic.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 3791,
+      "length": 37,
+      "value": "\"inavimap_default_marker_icon_yellow\""
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/build\/ios\/ArchiveIntermediates\/dynamic\/IntermediateBuildFilesPath\/ios.build\/RelWithDebInfo-iphoneos\/dynamic.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 3974,
+      "length": 21,
+      "value": "\"inavimap_inavi_logo\""
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/build\/ios\/ArchiveIntermediates\/dynamic\/IntermediateBuildFilesPath\/ios.build\/RelWithDebInfo-iphoneos\/dynamic.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 4155,
+      "length": 28,
+      "value": "\"inavimap_location_disabled\""
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/build\/ios\/ArchiveIntermediates\/dynamic\/IntermediateBuildFilesPath\/ios.build\/RelWithDebInfo-iphoneos\/dynamic.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 4348,
+      "length": 31,
+      "value": "\"inavimap_location_face_normal\""
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/build\/ios\/ArchiveIntermediates\/dynamic\/IntermediateBuildFilesPath\/ios.build\/RelWithDebInfo-iphoneos\/dynamic.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 4546,
+      "length": 32,
+      "value": "\"inavimap_location_face_pressed\""
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/build\/ios\/ArchiveIntermediates\/dynamic\/IntermediateBuildFilesPath\/ios.build\/RelWithDebInfo-iphoneos\/dynamic.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 4747,
+      "length": 33,
+      "value": "\"inavimap_location_follow_normal\""
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/build\/ios\/ArchiveIntermediates\/dynamic\/IntermediateBuildFilesPath\/ios.build\/RelWithDebInfo-iphoneos\/dynamic.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 4951,
+      "length": 34,
+      "value": "\"inavimap_location_follow_pressed\""
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/build\/ios\/ArchiveIntermediates\/dynamic\/IntermediateBuildFilesPath\/ios.build\/RelWithDebInfo-iphoneos\/dynamic.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 5159,
+      "length": 36,
+      "value": "\"inavimap_location_no_follow_normal\""
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/build\/ios\/ArchiveIntermediates\/dynamic\/IntermediateBuildFilesPath\/ios.build\/RelWithDebInfo-iphoneos\/dynamic.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 5371,
+      "length": 37,
+      "value": "\"inavimap_location_no_follow_pressed\""
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/build\/ios\/ArchiveIntermediates\/dynamic\/IntermediateBuildFilesPath\/ios.build\/RelWithDebInfo-iphoneos\/dynamic.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 5573,
+      "length": 31,
+      "value": "\"inavimap_location_none_normal\""
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/build\/ios\/ArchiveIntermediates\/dynamic\/IntermediateBuildFilesPath\/ios.build\/RelWithDebInfo-iphoneos\/dynamic.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 5771,
+      "length": 32,
+      "value": "\"inavimap_location_none_pressed\""
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/build\/ios\/ArchiveIntermediates\/dynamic\/IntermediateBuildFilesPath\/ios.build\/RelWithDebInfo-iphoneos\/dynamic.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 5945,
+      "length": 19,
+      "value": "\"inavimap_zoom_div\""
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/build\/ios\/ArchiveIntermediates\/dynamic\/IntermediateBuildFilesPath\/ios.build\/RelWithDebInfo-iphoneos\/dynamic.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 6121,
+      "length": 27,
+      "value": "\"inavimap_zoom_in_disabled\""
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/build\/ios\/ArchiveIntermediates\/dynamic\/IntermediateBuildFilesPath\/ios.build\/RelWithDebInfo-iphoneos\/dynamic.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 6301,
+      "length": 25,
+      "value": "\"inavimap_zoom_in_normal\""
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/build\/ios\/ArchiveIntermediates\/dynamic\/IntermediateBuildFilesPath\/ios.build\/RelWithDebInfo-iphoneos\/dynamic.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 6481,
+      "length": 26,
+      "value": "\"inavimap_zoom_in_pressed\""
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/build\/ios\/ArchiveIntermediates\/dynamic\/IntermediateBuildFilesPath\/ios.build\/RelWithDebInfo-iphoneos\/dynamic.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 6666,
+      "length": 28,
+      "value": "\"inavimap_zoom_out_disabled\""
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/build\/ios\/ArchiveIntermediates\/dynamic\/IntermediateBuildFilesPath\/ios.build\/RelWithDebInfo-iphoneos\/dynamic.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 6849,
+      "length": 26,
+      "value": "\"inavimap_zoom_out_normal\""
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/build\/ios\/ArchiveIntermediates\/dynamic\/IntermediateBuildFilesPath\/ios.build\/RelWithDebInfo-iphoneos\/dynamic.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 7032,
+      "length": 27,
+      "value": "\"inavimap_zoom_out_pressed\""
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/build\/ios\/ArchiveIntermediates\/dynamic\/IntermediateBuildFilesPath\/ios.build\/RelWithDebInfo-iphoneos\/dynamic.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 7181,
+      "length": 8,
+      "value": "\"mapbox\""
+    },
+    {
+      "filePath": "\/Users\/bonamanada\/Documents\/iNavi\/iMaps\/iOS\/build\/ios\/ArchiveIntermediates\/dynamic\/IntermediateBuildFilesPath\/ios.build\/RelWithDebInfo-iphoneos\/dynamic.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 7324,
+      "length": 15,
+      "value": "\"mapbox_helmet\""
+    }
+  ]
+}
