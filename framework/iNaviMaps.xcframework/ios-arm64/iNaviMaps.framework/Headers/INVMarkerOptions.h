@@ -1,7 +1,7 @@
 //
 //  INVMarkerOptions.h
 //
-//  ⓒ 2019-2024. iNavi Systems Corp. All rights reserved.
+//  ⓒ 2019-2025. iNavi Systems Corp. All rights reserved.
 //
 
 #import "INVShape.h"

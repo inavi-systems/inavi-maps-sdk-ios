@@ -1,7 +1,7 @@
 //
 //  InaviMapView.h
 //
-//  ⓒ 2019-2024. iNavi Systems Corp. All rights reserved.
+//  ⓒ 2019-2025. iNavi Systems Corp. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
@@ -75,11 +75,11 @@ typedef NS_ENUM(NSInteger, INVMapType) {
     INVMapTypeHybrid,
     /** 항공 지도 유형. */
     INVMapTypeSatellite,
-    /** 일반 지형 지도 유형. */
+    /** 일반 지도(지형도) 유형. */
     INVMapTypeNormalWithHillshade,
-    /** 하이브리드 지형 지도 유형. */
+    /** 하이브리드 지도(지형도) 유형. */
     INVMapTypeHybridWithHillshade,
-    /** 항공 지형 지도 유형. */
+    /** 항공 지도(지형도) 유형. */
     INVMapTypeSatelliteWithHillshade,
 };
 
