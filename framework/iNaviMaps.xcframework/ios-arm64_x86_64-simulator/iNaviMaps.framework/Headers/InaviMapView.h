@@ -21,6 +21,7 @@ NS_ASSUME_NONNULL_BEGIN
 @class INVLocationIcon;
 @class INVMapStyle;
 @class INVPoi;
+@class INVFloor;
 
 @protocol INVMapViewDelegate;
 
@@ -129,7 +130,7 @@ IB_DESIGNABLE
 
 /**
  `InaviMapView`의 Delegate.
- 
+
  지도 뷰의 Delegate를 이용해 지도의 표출이나, 화면 갱신 여부 등의 메시지를 전달합니다.
  */
 
@@ -139,28 +140,28 @@ IB_DESIGNABLE
 
 /**
  지도의 최소 줌 레벨.
- 
+
  기본값은 `1`입니다.
  */
 @property (nonatomic) IBInspectable double minimumZoomLevel;
 
 /**
  지도의 최대 줌 레벨.
- 
+
  기본값은 `20`입니다.
  */
 @property (nonatomic) IBInspectable double maximumZoomLevel;
 
 /**
  지도의 최소 기울기 각도. (도 단위)
- 
+
  기본값은 `0`입니다.
  */
 @property (nonatomic) IBInspectable double minimumTilt;
 
 /**
  지도의 최대 기울기 각도. (도 단위)
- 
+
  기본값은 `60`입니다.
  */
 @property (nonatomic) IBInspectable double maximumTilt;
@@ -169,7 +170,7 @@ IB_DESIGNABLE
 /**
  지도 심벌의 크기. (배율 단위)
  `0.0` ~ `2.0` 값을 지원하며 `1.5`으로 설정하면 지도 심벌이 `1.5`배의 크기로 표출됩니다.
- 
+
  기본값은 `1.0`입니다.
  */
 @property (nonatomic) IBInspectable double symbolScale;
@@ -203,7 +204,7 @@ IB_DESIGNABLE
 
 /**
  축척 바 표출 여부.
- 
+
  기본값은 `YES`입니다.
  */
 @property (nonatomic, assign) IBInspectable BOOL showScaleBar;
@@ -217,21 +218,21 @@ IB_DESIGNABLE
 
 /**
  줌 컨트롤 표출 여부.
- 
+
  기본값은 `NO`입니다.
  */
 @property (nonatomic) IBInspectable BOOL showZoomControl;
 
 /**
  현위치 버튼 표출 여부.
- 
+
  기본값은 `NO`입니다.
  */
 @property (nonatomic) IBInspectable BOOL showLocationButton;
 
 /**
  로고의 위치.
- 
+
  기본값은 `INVPositionBottomLeft`입니다.
  */
 @property (nonatomic, assign) INVPosition logoViewPosition;
@@ -257,7 +258,7 @@ IB_DESIGNABLE
 
 /**
  지도의 유형.
- 
+
  기본값은 `INVMapTypeNormal`입니다.
  */
 @property(nonatomic) INVMapType mapType;
@@ -266,7 +267,7 @@ IB_DESIGNABLE
 
 /**
  위치 추적 모드.
- 
+
  @see `INVUserTrackingMode`
  */
 @property (nonatomic, assign) INVUserTrackingMode userTrackingMode;
@@ -280,28 +281,28 @@ IB_DESIGNABLE
 
 /**
  지도 줌 제스처 사용 여부를 나타내는 속성.
- 
+
  기본값은 `YES`입니다.
  */
 @property(nonatomic, getter=isZoomGesturesEnabled) IBInspectable BOOL zoomGesturesEnabled;
 
 /**
  지도 스크롤 제스처 사용 여부를 나타내는 속성.
- 
+
  기본값은 `YES`입니다.
  */
 @property(nonatomic, getter=isScrollGesturesEnabled) IBInspectable BOOL scrollGesturesEnabled;
 
 /**
  지도 회전 제스처 사용 여부를 나타내는 속성.
- 
+
  기본값은 `YES`입니다.
  */
 @property(nonatomic, getter=isRotateGesturesEnabled) IBInspectable BOOL rotateGesturesEnabled;
 
 /**
  지도 기울기 제스처 사용 여부를 나타내는 속성.
- 
+
  기본값은 `YES`입니다.
  */
 @property(nonatomic, getter=isTiltGesturesEnabled) IBInspectable BOOL tiltGesturesEnabled;
@@ -389,6 +390,25 @@ IB_DESIGNABLE
  @return `INVPoi` 객체 Array.
 */
 - (NSArray<INVPoi*> *)pickPois:(CGRect)rect;
+
+#pragma mark Indoor Map
+
+/**
+ 실내지도 활성화 여부를 나타내는 속성.
+
+ 기본값은 `YES`입니다.
+ */
+@property(nonatomic, getter=isIndoorMapEnabled) IBInspectable BOOL indoorMapEnabled;
+
+/**
+현재 표출중인 실내지도에서 전달된 층으로 변경합니다.
+아래와 같은 조건에서는 층이 변경되지 않습니다:
+- 현재 표출중인 실내지도가 없는 경우
+- 층을 찾을 수 없는 경우
+
+@param floor 설정할 층 정보.
+*/
+- (void)setIndoorFloor:(INVFloor * _Nonnull)floor;
 
 @end
 

@@ -12,6 +12,7 @@ NS_ASSUME_NONNULL_BEGIN
 
 @class InaviMapView;
 @class INVLatLng;
+@class INVFloor;
 
 /**
 `InaviMapView`의 비동기 작업 및 속성 변화의 결과를 알려주는 함수가 정의된 프로토콜.
@@ -114,5 +115,18 @@ NS_ASSUME_NONNULL_BEGIN
 @param userLocation 업데이트 된 위치
 */
 - (void)mapView:(InaviMapView *)mapView didUpdateUserLocation:(nullable CLLocation *)userLocation;
+
+#pragma mark Responding to Indoor Map Changes
+
+/**
+ 실내지도 정보가 변경되었을 때 호출되는 콜백 메서드.
+
+ @param mapView 실내지도 정보가 변경된 `InaviMapView` 객체.
+ @param placeId 현재 실내지도 장소 ID. `nil`일 경우 실내지도가 표시되지 않음.
+ @param floors 현재 장소의 층 목록. `nil`일 경우 층 정보가 없음.
+ @param floor 현재 선택된 층. `nil`일 경우 선택된 층이 없음.
+ */
+- (void)mapView:(InaviMapView *)mapView didChangeIndoor:(nullable NSNumber *)placeId floors:(nullable NSArray<INVFloor *> *)floors floor:(nullable INVFloor *)floor;
+
 @end
 NS_ASSUME_NONNULL_END

@@ -33,21 +33,21 @@ INV_EXPORT
 
 /**
  줌 컨트롤 표출 여부.
- 
+
  기본값은 `NO`입니다.
  */
 @property (nonatomic) BOOL showZoomControl;
 
 /**
  현위치 버튼 표출 여부.
- 
+
  기본값은 `NO`입니다.
  */
 @property (nonatomic) BOOL showLocationButton;
 
 /**
  로고의 위치.
- 
+
  기본값은 `INVPositionBottomLeft`입니다.
  */
 @property (nonatomic, assign) INVPosition logoViewPosition;
@@ -61,14 +61,14 @@ INV_EXPORT
 
 /**
  지도의 최소 줌 레벨.
- 
+
  기본값은 `1`입니다.
  */
 @property (nonatomic) double minimumZoomLevel;
 
 /**
  지도의 최대 줌 레벨.
- 
+
  기본값은 `20`입니다.
  */
 @property (nonatomic) double maximumZoomLevel;
@@ -76,14 +76,14 @@ INV_EXPORT
 
 /**
  지도의 최소 기울기 각도. (도 단위)
- 
+
  기본값은 `0`입니다.
  */
 @property (nonatomic) double minimumTilt;
 
 /**
  지도의 최대 기울기 각도. (도 단위)
- 
+
  기본값은 `60`입니다.
  */
 @property (nonatomic) double maximumTilt;
@@ -91,35 +91,35 @@ INV_EXPORT
 /**
  지도 심벌의 크기. (배율 단위)
  `0.0` ~ `2.0` 값을 지원하며 `1.5`으로 설정하면 지도 심벌이 `1.5`배의 크기로 표출됩니다.
- 
+
  기본값은 `1.0`입니다.
  */
 @property (nonatomic) double symbolScale;
 
 /**
  지도 줌 제스처 사용 여부를 나타내는 속성.
- 
+
  기본값은 `YES`입니다.
  */
 @property(nonatomic, getter=isZoomGesturesEnabled) BOOL zoomGesturesEnabled;
 
 /**
  지도 스크롤 제스처 사용 여부를 나타내는 속성.
- 
+
  기본값은 `YES`입니다.
  */
 @property(nonatomic, getter=isScrollGesturesEnabled) BOOL scrollGesturesEnabled;
 
 /**
  지도 회전 제스처 사용 여부를 나타내는 속성.
- 
+
  기본값은 `YES`입니다.
  */
 @property(nonatomic, getter=isRotateGesturesEnabled) BOOL rotateGesturesEnabled;
 
 /**
  지도 기울기 제스처 사용 여부를 나타내는 속성.
- 
+
  기본값은 `YES`입니다.
  */
 @property(nonatomic, getter=isTiltGesturesEnabled) BOOL tiltGesturesEnabled;
@@ -164,6 +164,12 @@ INV_EXPORT
 @property(nonatomic) INVMapType mapType;
 
 
+/**
+ * 실내지도 활성화 여부
+ *
+ * 기본값은 `YES`입니다.
+ */
+@property(nonatomic, getter=isIndoorMapEnabled) BOOL indoorMapEnabled;
 
 @end
 

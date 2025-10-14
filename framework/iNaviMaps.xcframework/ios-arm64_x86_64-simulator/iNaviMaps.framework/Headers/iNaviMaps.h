@@ -46,3 +46,4 @@ FOUNDATION_EXPORT INV_EXPORT const unsigned char iNaviMapsVersionString[];
 #import "INVDefaultClusterIconGenerator.h"
 #import "INVMapStyle.h"
 #import "INVPoi.h"
+#import "INVFloor.h"
