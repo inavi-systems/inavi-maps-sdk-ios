@@ -1,7 +1,7 @@
 //
 //  INVMultiLine.h
 //
-//  ⓒ 2019-2025. iNavi Systems Corp. All rights reserved.
+//  ⓒ 2019-2026. iNavi Systems Corp. All rights reserved.
 //
 
 #import "INVShape.h"

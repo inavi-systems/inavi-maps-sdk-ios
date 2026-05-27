@@ -1,7 +1,7 @@
 //
 //  InaviMapView.h
 //
-//  ⓒ 2019-2025. iNavi Systems Corp. All rights reserved.
+//  ⓒ 2019-2026. iNavi Systems Corp. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
@@ -174,6 +174,16 @@ IB_DESIGNABLE
  기본값은 `1.0`입니다.
  */
 @property (nonatomic) IBInspectable double symbolScale;
+
+/**
+ 지도 표기 언어 코드.
+
+ 지도 텍스트(POI/도로/지명 라벨)에 적용됩니다.
+ 지원 언어 코드는 `"ko"`, `"en"`, `"ja"`, `"zh"`이며, 그 외 코드를 전달하면 기본 언어(`"ko"`)로 표시됩니다.
+
+ 기본값은 시스템 기본 언어 코드입니다.
+ */
+@property (nonatomic, copy) IBInspectable NSString *language;
 
 /**
  지도 이동을 제한하는 `INVLatLngBounds` 영역.

@@ -2,7 +2,7 @@
 //  INVTm.h
 //
 //  Created by DongWon Park on 2022/08/09.
-//  ⓒ 2019-2025. iNavi Systems Corp. All rights reserved.
+//  ⓒ 2019-2026. iNavi Systems Corp. All rights reserved.
 //
 #import "INVFoundation.h"
 #import "INVLatLng.h"

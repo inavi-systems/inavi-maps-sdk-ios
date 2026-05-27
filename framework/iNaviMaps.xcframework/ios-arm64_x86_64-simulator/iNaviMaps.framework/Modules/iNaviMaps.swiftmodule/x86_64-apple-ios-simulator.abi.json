@@ -2159,980 +2159,980 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/platform\/ios\/turf-swift\/Turf.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/platform\/ios\/turf-swift\/Turf.swift",
       "kind": "FloatLiteral",
       "offset": 104,
       "length": 11,
       "value": "6373000.0"
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/platform\/ios\/turf-swift\/Turf.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/platform\/ios\/turf-swift\/Turf.swift",
       "kind": "IntegerLiteral",
       "offset": 252,
       "length": 9,
       "value": "6378137"
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/platform\/ios\/turf-swift\/Ring.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/platform\/ios\/turf-swift\/Ring.swift",
       "kind": "BooleanLiteral",
       "offset": 2652,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/platform\/ios\/turf-swift\/Spline.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/platform\/ios\/turf-swift\/Spline.swift",
       "kind": "IntegerLiteral",
       "offset": 786,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/platform\/ios\/turf-swift\/Spline.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/platform\/ios\/turf-swift\/Spline.swift",
       "kind": "IntegerLiteral",
       "offset": 1013,
       "length": 2,
       "value": "60"
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/platform\/ios\/turf-swift\/Spline.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/platform\/ios\/turf-swift\/Spline.swift",
       "kind": "IntegerLiteral",
       "offset": 4693,
       "length": 5,
       "value": "10000"
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/platform\/ios\/turf-swift\/Spline.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/platform\/ios\/turf-swift\/Spline.swift",
       "kind": "FloatLiteral",
       "offset": 4720,
       "length": 4,
       "value": "0.85"
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/platform\/ios\/turf-swift\/Spline.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/platform\/ios\/turf-swift\/Spline.swift",
       "kind": "IntegerLiteral",
       "offset": 5117,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/platform\/ios\/turf-swift\/Spline.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/platform\/ios\/turf-swift\/Spline.swift",
       "kind": "IntegerLiteral",
       "offset": 5140,
       "length": 2,
       "value": "10"
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/platform\/ios\/turf-swift\/Spline.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/platform\/ios\/turf-swift\/Spline.swift",
       "kind": "IntegerLiteral",
       "offset": 5189,
       "length": 3,
       "value": "100"
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/platform\/ios\/turf-swift\/Spline.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/platform\/ios\/turf-swift\/Spline.swift",
       "kind": "IntegerLiteral",
       "offset": 5197,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/platform\/ios\/turf-swift\/Spline.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/platform\/ios\/turf-swift\/Spline.swift",
       "kind": "IntegerLiteral",
       "offset": 5202,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
       "kind": "IntegerLiteral",
       "offset": 748,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
       "kind": "IntegerLiteral",
       "offset": 773,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
       "kind": "IntegerLiteral",
       "offset": 795,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
       "kind": "IntegerLiteral",
       "offset": 820,
       "length": 1,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
       "kind": "IntegerLiteral",
       "offset": 844,
       "length": 1,
       "value": "4"
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
       "kind": "IntegerLiteral",
       "offset": 895,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
       "kind": "IntegerLiteral",
       "offset": 905,
       "length": 1,
       "value": "5"
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
       "kind": "IntegerLiteral",
       "offset": 951,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
       "kind": "IntegerLiteral",
       "offset": 961,
       "length": 1,
       "value": "5"
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
       "kind": "IntegerLiteral",
       "offset": 1008,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
       "kind": "IntegerLiteral",
       "offset": 1018,
       "length": 1,
       "value": "5"
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
       "kind": "IntegerLiteral",
       "offset": 1065,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
       "kind": "IntegerLiteral",
       "offset": 1075,
       "length": 1,
       "value": "5"
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
       "kind": "IntegerLiteral",
       "offset": 1122,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
       "kind": "IntegerLiteral",
       "offset": 1132,
       "length": 1,
       "value": "5"
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
       "kind": "FloatLiteral",
       "offset": 1164,
       "length": 12,
       "value": "0.0000000001"
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
       "kind": "IntegerLiteral",
       "offset": 1225,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
       "kind": "IntegerLiteral",
       "offset": 1235,
       "length": 1,
       "value": "5"
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
       "kind": "IntegerLiteral",
       "offset": 1286,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
       "kind": "IntegerLiteral",
       "offset": 1296,
       "length": 1,
       "value": "5"
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
       "kind": "IntegerLiteral",
       "offset": 1358,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
       "kind": "IntegerLiteral",
       "offset": 1368,
       "length": 1,
       "value": "5"
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
       "kind": "IntegerLiteral",
       "offset": 1423,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
       "kind": "IntegerLiteral",
       "offset": 1433,
       "length": 1,
       "value": "5"
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
       "kind": "IntegerLiteral",
       "offset": 1488,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
       "kind": "IntegerLiteral",
       "offset": 1498,
       "length": 1,
       "value": "5"
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
       "kind": "IntegerLiteral",
       "offset": 1557,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
       "kind": "IntegerLiteral",
       "offset": 1567,
       "length": 1,
       "value": "5"
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
       "kind": "IntegerLiteral",
       "offset": 1625,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
       "kind": "IntegerLiteral",
       "offset": 1635,
       "length": 1,
       "value": "5"
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
       "kind": "IntegerLiteral",
       "offset": 1694,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
       "kind": "IntegerLiteral",
       "offset": 1704,
       "length": 1,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
       "kind": "IntegerLiteral",
       "offset": 10728,
       "length": 1,
       "value": "6"
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
       "kind": "IntegerLiteral",
       "offset": 10768,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
       "kind": "FloatLiteral",
       "offset": 10889,
       "length": 3,
       "value": "0.5"
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
       "kind": "FloatLiteral",
       "offset": 10900,
       "length": 3,
       "value": "1.0"
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
       "kind": "FloatLiteral",
       "offset": 11094,
       "length": 3,
       "value": "1.0"
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
       "kind": "FloatLiteral",
       "offset": 11110,
       "length": 3,
       "value": "1.0"
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
       "kind": "IntegerLiteral",
       "offset": 11200,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
       "kind": "IntegerLiteral",
       "offset": 11232,
       "length": 2,
       "value": "-1"
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
       "kind": "IntegerLiteral",
       "offset": 11284,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
       "kind": "IntegerLiteral",
       "offset": 11296,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
       "kind": "IntegerLiteral",
       "offset": 11740,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
       "kind": "BooleanLiteral",
       "offset": 11766,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
       "kind": "FloatLiteral",
       "offset": 11846,
       "length": 3,
       "value": "2.0"
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
       "kind": "FloatLiteral",
       "offset": 11888,
       "length": 3,
       "value": "4.0"
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
       "kind": "FloatLiteral",
       "offset": 11930,
       "length": 3,
       "value": "6.0"
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
       "kind": "IntegerLiteral",
       "offset": 12312,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
       "kind": "IntegerLiteral",
       "offset": 12368,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
       "kind": "FloatLiteral",
       "offset": 12648,
       "length": 3,
       "value": "1.0"
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
       "kind": "FloatLiteral",
       "offset": 12765,
       "length": 3,
       "value": "1.0"
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
       "kind": "FloatLiteral",
       "offset": 12936,
       "length": 3,
       "value": "0.5"
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
       "kind": "FloatLiteral",
       "offset": 12947,
       "length": 4,
       "value": "24.0"
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
       "kind": "FloatLiteral",
       "offset": 12955,
       "length": 3,
       "value": "5.0"
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
       "kind": "FloatLiteral",
       "offset": 12961,
       "length": 3,
       "value": "3.0"
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
       "kind": "FloatLiteral",
       "offset": 12971,
       "length": 4,
       "value": "10.0"
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
       "kind": "FloatLiteral",
       "offset": 12982,
       "length": 3,
       "value": "4.0"
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
       "kind": "FloatLiteral",
       "offset": 12993,
       "length": 3,
       "value": "9.0"
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
       "kind": "FloatLiteral",
       "offset": 13021,
       "length": 4,
       "value": "30.0"
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
       "kind": "FloatLiteral",
       "offset": 13029,
       "length": 4,
       "value": "61.0"
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
       "kind": "FloatLiteral",
       "offset": 13036,
       "length": 4,
       "value": "90.0"
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
       "kind": "FloatLiteral",
       "offset": 13047,
       "length": 5,
       "value": "298.0"
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
       "kind": "FloatLiteral",
       "offset": 13059,
       "length": 4,
       "value": "45.0"
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
       "kind": "FloatLiteral",
       "offset": 13071,
       "length": 5,
       "value": "252.0"
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
       "kind": "FloatLiteral",
       "offset": 13096,
       "length": 3,
       "value": "3.0"
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
       "kind": "FloatLiteral",
       "offset": 13162,
       "length": 3,
       "value": "1.0"
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
       "kind": "FloatLiteral",
       "offset": 13173,
       "length": 3,
       "value": "6.0"
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
       "kind": "FloatLiteral",
       "offset": 13180,
       "length": 3,
       "value": "1.0"
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
       "kind": "FloatLiteral",
       "offset": 13186,
       "length": 3,
       "value": "2.0"
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
       "kind": "FloatLiteral",
       "offset": 13205,
       "length": 4,
       "value": "20.0"
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
       "kind": "FloatLiteral",
       "offset": 13213,
       "length": 3,
       "value": "5.0"
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
       "kind": "FloatLiteral",
       "offset": 13219,
       "length": 3,
       "value": "2.0"
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
       "kind": "FloatLiteral",
       "offset": 13229,
       "length": 4,
       "value": "28.0"
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
       "kind": "FloatLiteral",
       "offset": 13240,
       "length": 3,
       "value": "3.0"
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
       "kind": "FloatLiteral",
       "offset": 13251,
       "length": 3,
       "value": "8.0"
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
       "kind": "FloatLiteral",
       "offset": 13274,
       "length": 4,
       "value": "24.0"
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
       "kind": "FloatLiteral",
       "offset": 13358,
       "length": 3,
       "value": "0.5"
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
       "kind": "FloatLiteral",
       "offset": 15433,
       "length": 3,
       "value": "0.5"
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
       "kind": "FloatLiteral",
       "offset": 15483,
       "length": 19,
       "value": "0.38268343236508977"
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/platform\/ios\/framework\/turf-swift\/GeoConv\/GeoTrans.swift",
       "kind": "FloatLiteral",
       "offset": 15563,
       "length": 9,
       "value": "1.0026000"
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/platform\/ios\/turf-swift\/GeoJSON.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/platform\/ios\/turf-swift\/GeoJSON.swift",
       "kind": "StringLiteral",
       "offset": 107,
       "length": 9,
       "value": "\"Feature\""
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/platform\/ios\/turf-swift\/GeoJSON.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/platform\/ios\/turf-swift\/GeoJSON.swift",
       "kind": "StringLiteral",
       "offset": 146,
       "length": 19,
       "value": "\"FeatureCollection\""
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/platform\/ios\/turf-swift\/GeoJSON.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/platform\/ios\/turf-swift\/GeoJSON.swift",
       "kind": "StringLiteral",
       "offset": 821,
       "length": 4,
       "value": "\"id\""
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/platform\/ios\/turf-swift\/GeoJSON.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/platform\/ios\/turf-swift\/GeoJSON.swift",
       "kind": "StringLiteral",
       "offset": 3414,
       "length": 10,
       "value": "\"geometry\""
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/platform\/ios\/turf-swift\/Polygon.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/platform\/ios\/turf-swift\/Polygon.swift",
       "kind": "BooleanLiteral",
       "offset": 2506,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/platform\/ios\/turf-swift\/FeatureCollection.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/platform\/ios\/turf-swift\/FeatureCollection.swift",
       "kind": "Array",
       "offset": 190,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/platform\/ios\/turf-swift\/INVTurfHelper.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/platform\/ios\/turf-swift\/INVTurfHelper.swift",
       "kind": "IntegerLiteral",
       "offset": 228,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/platform\/ios\/turf-swift\/INVTurfHelper.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/platform\/ios\/turf-swift\/INVTurfHelper.swift",
       "kind": "IntegerLiteral",
       "offset": 263,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/platform\/ios\/turf-swift\/INVTurfHelper.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/platform\/ios\/turf-swift\/INVTurfHelper.swift",
       "kind": "IntegerLiteral",
       "offset": 323,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/platform\/ios\/turf-swift\/INVTurfHelper.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/platform\/ios\/turf-swift\/INVTurfHelper.swift",
       "kind": "IntegerLiteral",
       "offset": 334,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/platform\/ios\/turf-swift\/INVTurfHelper.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/platform\/ios\/turf-swift\/INVTurfHelper.swift",
       "kind": "IntegerLiteral",
       "offset": 342,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/platform\/ios\/turf-swift\/INVTurfHelper.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/platform\/ios\/turf-swift\/INVTurfHelper.swift",
       "kind": "IntegerLiteral",
       "offset": 353,
       "length": 1,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/platform\/ios\/turf-swift\/INVTurfHelper.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/platform\/ios\/turf-swift\/INVTurfHelper.swift",
       "kind": "IntegerLiteral",
       "offset": 363,
       "length": 1,
       "value": "4"
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/build\/ios\/ArchiveIntermediates\/dynamic\/IntermediateBuildFilesPath\/ios.build\/RelWithDebInfo-iphonesimulator\/dynamic.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/build\/ios\/ArchiveIntermediates\/dynamic\/IntermediateBuildFilesPath\/ios.build\/RelWithDebInfo-iphonesimulator\/dynamic.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 727,
       "length": 9,
       "value": "\"Compass\""
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/build\/ios\/ArchiveIntermediates\/dynamic\/IntermediateBuildFilesPath\/ios.build\/RelWithDebInfo-iphonesimulator\/dynamic.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/build\/ios\/ArchiveIntermediates\/dynamic\/IntermediateBuildFilesPath\/ios.build\/RelWithDebInfo-iphonesimulator\/dynamic.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 864,
       "length": 11,
       "value": "\"crosshair\""
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/build\/ios\/ArchiveIntermediates\/dynamic\/IntermediateBuildFilesPath\/ios.build\/RelWithDebInfo-iphonesimulator\/dynamic.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/build\/ios\/ArchiveIntermediates\/dynamic\/IntermediateBuildFilesPath\/ios.build\/RelWithDebInfo-iphonesimulator\/dynamic.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 1012,
       "length": 16,
       "value": "\"default_marker\""
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/build\/ios\/ArchiveIntermediates\/dynamic\/IntermediateBuildFilesPath\/ios.build\/RelWithDebInfo-iphonesimulator\/dynamic.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/build\/ios\/ArchiveIntermediates\/dynamic\/IntermediateBuildFilesPath\/ios.build\/RelWithDebInfo-iphonesimulator\/dynamic.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 1182,
       "length": 25,
       "value": "\"inavimap_compass_normal\""
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/build\/ios\/ArchiveIntermediates\/dynamic\/IntermediateBuildFilesPath\/ios.build\/RelWithDebInfo-iphonesimulator\/dynamic.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/build\/ios\/ArchiveIntermediates\/dynamic\/IntermediateBuildFilesPath\/ios.build\/RelWithDebInfo-iphonesimulator\/dynamic.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 1363,
       "length": 26,
       "value": "\"inavimap_compass_pressed\""
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/build\/ios\/ArchiveIntermediates\/dynamic\/IntermediateBuildFilesPath\/ios.build\/RelWithDebInfo-iphonesimulator\/dynamic.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/build\/ios\/ArchiveIntermediates\/dynamic\/IntermediateBuildFilesPath\/ios.build\/RelWithDebInfo-iphonesimulator\/dynamic.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 1586,
       "length": 48,
       "value": "\"inavimap_default_info_window_background_center\""
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/build\/ios\/ArchiveIntermediates\/dynamic\/IntermediateBuildFilesPath\/ios.build\/RelWithDebInfo-iphonesimulator\/dynamic.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/build\/ios\/ArchiveIntermediates\/dynamic\/IntermediateBuildFilesPath\/ios.build\/RelWithDebInfo-iphonesimulator\/dynamic.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 1827,
       "length": 46,
       "value": "\"inavimap_default_info_window_background_left\""
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/build\/ios\/ArchiveIntermediates\/dynamic\/IntermediateBuildFilesPath\/ios.build\/RelWithDebInfo-iphonesimulator\/dynamic.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/build\/ios\/ArchiveIntermediates\/dynamic\/IntermediateBuildFilesPath\/ios.build\/RelWithDebInfo-iphonesimulator\/dynamic.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 2068,
       "length": 47,
       "value": "\"inavimap_default_info_window_background_right\""
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/build\/ios\/ArchiveIntermediates\/dynamic\/IntermediateBuildFilesPath\/ios.build\/RelWithDebInfo-iphonesimulator\/dynamic.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/build\/ios\/ArchiveIntermediates\/dynamic\/IntermediateBuildFilesPath\/ios.build\/RelWithDebInfo-iphonesimulator\/dynamic.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 2282,
       "length": 32,
       "value": "\"inavimap_default_location_icon\""
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/build\/ios\/ArchiveIntermediates\/dynamic\/IntermediateBuildFilesPath\/ios.build\/RelWithDebInfo-iphonesimulator\/dynamic.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/build\/ios\/ArchiveIntermediates\/dynamic\/IntermediateBuildFilesPath\/ios.build\/RelWithDebInfo-iphonesimulator\/dynamic.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 2498,
       "length": 41,
       "value": "\"inavimap_default_location_icon_tracking\""
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/build\/ios\/ArchiveIntermediates\/dynamic\/IntermediateBuildFilesPath\/ios.build\/RelWithDebInfo-iphonesimulator\/dynamic.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/build\/ios\/ArchiveIntermediates\/dynamic\/IntermediateBuildFilesPath\/ios.build\/RelWithDebInfo-iphonesimulator\/dynamic.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 2738,
       "length": 49,
       "value": "\"inavimap_default_location_icon_tracking_compass\""
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/build\/ios\/ArchiveIntermediates\/dynamic\/IntermediateBuildFilesPath\/ios.build\/RelWithDebInfo-iphonesimulator\/dynamic.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/build\/ios\/ArchiveIntermediates\/dynamic\/IntermediateBuildFilesPath\/ios.build\/RelWithDebInfo-iphonesimulator\/dynamic.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 2959,
       "length": 35,
       "value": "\"inavimap_default_marker_icon_blue\""
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/build\/ios\/ArchiveIntermediates\/dynamic\/IntermediateBuildFilesPath\/ios.build\/RelWithDebInfo-iphonesimulator\/dynamic.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/build\/ios\/ArchiveIntermediates\/dynamic\/IntermediateBuildFilesPath\/ios.build\/RelWithDebInfo-iphonesimulator\/dynamic.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 3166,
       "length": 35,
       "value": "\"inavimap_default_marker_icon_gray\""
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/build\/ios\/ArchiveIntermediates\/dynamic\/IntermediateBuildFilesPath\/ios.build\/RelWithDebInfo-iphonesimulator\/dynamic.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/build\/ios\/ArchiveIntermediates\/dynamic\/IntermediateBuildFilesPath\/ios.build\/RelWithDebInfo-iphonesimulator\/dynamic.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 3375,
       "length": 36,
       "value": "\"inavimap_default_marker_icon_green\""
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/build\/ios\/ArchiveIntermediates\/dynamic\/IntermediateBuildFilesPath\/ios.build\/RelWithDebInfo-iphonesimulator\/dynamic.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/build\/ios\/ArchiveIntermediates\/dynamic\/IntermediateBuildFilesPath\/ios.build\/RelWithDebInfo-iphonesimulator\/dynamic.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 3581,
       "length": 34,
       "value": "\"inavimap_default_marker_icon_red\""
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/build\/ios\/ArchiveIntermediates\/dynamic\/IntermediateBuildFilesPath\/ios.build\/RelWithDebInfo-iphonesimulator\/dynamic.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/build\/ios\/ArchiveIntermediates\/dynamic\/IntermediateBuildFilesPath\/ios.build\/RelWithDebInfo-iphonesimulator\/dynamic.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 3791,
       "length": 37,
       "value": "\"inavimap_default_marker_icon_yellow\""
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/build\/ios\/ArchiveIntermediates\/dynamic\/IntermediateBuildFilesPath\/ios.build\/RelWithDebInfo-iphonesimulator\/dynamic.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/build\/ios\/ArchiveIntermediates\/dynamic\/IntermediateBuildFilesPath\/ios.build\/RelWithDebInfo-iphonesimulator\/dynamic.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 3974,
       "length": 21,
       "value": "\"inavimap_inavi_logo\""
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/build\/ios\/ArchiveIntermediates\/dynamic\/IntermediateBuildFilesPath\/ios.build\/RelWithDebInfo-iphonesimulator\/dynamic.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/build\/ios\/ArchiveIntermediates\/dynamic\/IntermediateBuildFilesPath\/ios.build\/RelWithDebInfo-iphonesimulator\/dynamic.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 4155,
       "length": 28,
       "value": "\"inavimap_location_disabled\""
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/build\/ios\/ArchiveIntermediates\/dynamic\/IntermediateBuildFilesPath\/ios.build\/RelWithDebInfo-iphonesimulator\/dynamic.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/build\/ios\/ArchiveIntermediates\/dynamic\/IntermediateBuildFilesPath\/ios.build\/RelWithDebInfo-iphonesimulator\/dynamic.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 4348,
       "length": 31,
       "value": "\"inavimap_location_face_normal\""
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/build\/ios\/ArchiveIntermediates\/dynamic\/IntermediateBuildFilesPath\/ios.build\/RelWithDebInfo-iphonesimulator\/dynamic.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/build\/ios\/ArchiveIntermediates\/dynamic\/IntermediateBuildFilesPath\/ios.build\/RelWithDebInfo-iphonesimulator\/dynamic.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 4546,
       "length": 32,
       "value": "\"inavimap_location_face_pressed\""
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/build\/ios\/ArchiveIntermediates\/dynamic\/IntermediateBuildFilesPath\/ios.build\/RelWithDebInfo-iphonesimulator\/dynamic.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/build\/ios\/ArchiveIntermediates\/dynamic\/IntermediateBuildFilesPath\/ios.build\/RelWithDebInfo-iphonesimulator\/dynamic.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 4747,
       "length": 33,
       "value": "\"inavimap_location_follow_normal\""
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/build\/ios\/ArchiveIntermediates\/dynamic\/IntermediateBuildFilesPath\/ios.build\/RelWithDebInfo-iphonesimulator\/dynamic.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/build\/ios\/ArchiveIntermediates\/dynamic\/IntermediateBuildFilesPath\/ios.build\/RelWithDebInfo-iphonesimulator\/dynamic.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 4951,
       "length": 34,
       "value": "\"inavimap_location_follow_pressed\""
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/build\/ios\/ArchiveIntermediates\/dynamic\/IntermediateBuildFilesPath\/ios.build\/RelWithDebInfo-iphonesimulator\/dynamic.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/build\/ios\/ArchiveIntermediates\/dynamic\/IntermediateBuildFilesPath\/ios.build\/RelWithDebInfo-iphonesimulator\/dynamic.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 5159,
       "length": 36,
       "value": "\"inavimap_location_no_follow_normal\""
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/build\/ios\/ArchiveIntermediates\/dynamic\/IntermediateBuildFilesPath\/ios.build\/RelWithDebInfo-iphonesimulator\/dynamic.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/build\/ios\/ArchiveIntermediates\/dynamic\/IntermediateBuildFilesPath\/ios.build\/RelWithDebInfo-iphonesimulator\/dynamic.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 5371,
       "length": 37,
       "value": "\"inavimap_location_no_follow_pressed\""
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/build\/ios\/ArchiveIntermediates\/dynamic\/IntermediateBuildFilesPath\/ios.build\/RelWithDebInfo-iphonesimulator\/dynamic.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/build\/ios\/ArchiveIntermediates\/dynamic\/IntermediateBuildFilesPath\/ios.build\/RelWithDebInfo-iphonesimulator\/dynamic.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 5573,
       "length": 31,
       "value": "\"inavimap_location_none_normal\""
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/build\/ios\/ArchiveIntermediates\/dynamic\/IntermediateBuildFilesPath\/ios.build\/RelWithDebInfo-iphonesimulator\/dynamic.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/build\/ios\/ArchiveIntermediates\/dynamic\/IntermediateBuildFilesPath\/ios.build\/RelWithDebInfo-iphonesimulator\/dynamic.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 5771,
       "length": 32,
       "value": "\"inavimap_location_none_pressed\""
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/build\/ios\/ArchiveIntermediates\/dynamic\/IntermediateBuildFilesPath\/ios.build\/RelWithDebInfo-iphonesimulator\/dynamic.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/build\/ios\/ArchiveIntermediates\/dynamic\/IntermediateBuildFilesPath\/ios.build\/RelWithDebInfo-iphonesimulator\/dynamic.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 5945,
       "length": 19,
       "value": "\"inavimap_zoom_div\""
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/build\/ios\/ArchiveIntermediates\/dynamic\/IntermediateBuildFilesPath\/ios.build\/RelWithDebInfo-iphonesimulator\/dynamic.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/build\/ios\/ArchiveIntermediates\/dynamic\/IntermediateBuildFilesPath\/ios.build\/RelWithDebInfo-iphonesimulator\/dynamic.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 6121,
       "length": 27,
       "value": "\"inavimap_zoom_in_disabled\""
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/build\/ios\/ArchiveIntermediates\/dynamic\/IntermediateBuildFilesPath\/ios.build\/RelWithDebInfo-iphonesimulator\/dynamic.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/build\/ios\/ArchiveIntermediates\/dynamic\/IntermediateBuildFilesPath\/ios.build\/RelWithDebInfo-iphonesimulator\/dynamic.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 6301,
       "length": 25,
       "value": "\"inavimap_zoom_in_normal\""
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/build\/ios\/ArchiveIntermediates\/dynamic\/IntermediateBuildFilesPath\/ios.build\/RelWithDebInfo-iphonesimulator\/dynamic.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/build\/ios\/ArchiveIntermediates\/dynamic\/IntermediateBuildFilesPath\/ios.build\/RelWithDebInfo-iphonesimulator\/dynamic.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 6481,
       "length": 26,
       "value": "\"inavimap_zoom_in_pressed\""
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/build\/ios\/ArchiveIntermediates\/dynamic\/IntermediateBuildFilesPath\/ios.build\/RelWithDebInfo-iphonesimulator\/dynamic.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/build\/ios\/ArchiveIntermediates\/dynamic\/IntermediateBuildFilesPath\/ios.build\/RelWithDebInfo-iphonesimulator\/dynamic.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 6666,
       "length": 28,
       "value": "\"inavimap_zoom_out_disabled\""
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/build\/ios\/ArchiveIntermediates\/dynamic\/IntermediateBuildFilesPath\/ios.build\/RelWithDebInfo-iphonesimulator\/dynamic.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/build\/ios\/ArchiveIntermediates\/dynamic\/IntermediateBuildFilesPath\/ios.build\/RelWithDebInfo-iphonesimulator\/dynamic.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 6849,
       "length": 26,
       "value": "\"inavimap_zoom_out_normal\""
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/build\/ios\/ArchiveIntermediates\/dynamic\/IntermediateBuildFilesPath\/ios.build\/RelWithDebInfo-iphonesimulator\/dynamic.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/build\/ios\/ArchiveIntermediates\/dynamic\/IntermediateBuildFilesPath\/ios.build\/RelWithDebInfo-iphonesimulator\/dynamic.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 7032,
       "length": 27,
       "value": "\"inavimap_zoom_out_pressed\""
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/build\/ios\/ArchiveIntermediates\/dynamic\/IntermediateBuildFilesPath\/ios.build\/RelWithDebInfo-iphonesimulator\/dynamic.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/build\/ios\/ArchiveIntermediates\/dynamic\/IntermediateBuildFilesPath\/ios.build\/RelWithDebInfo-iphonesimulator\/dynamic.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 7181,
       "length": 8,
       "value": "\"mapbox\""
     },
     {
-      "filePath": "\/Users\/bonamanada\/Documents\/iMAPS\/iOS\/build\/ios\/ArchiveIntermediates\/dynamic\/IntermediateBuildFilesPath\/ios.build\/RelWithDebInfo-iphonesimulator\/dynamic.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/bonamanada\/Documents\/Project\/APP\/IMAPS\/inavi-maps-sdk-ios\/build\/ios\/ArchiveIntermediates\/dynamic\/IntermediateBuildFilesPath\/ios.build\/RelWithDebInfo-iphonesimulator\/dynamic.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 7324,
       "length": 15,

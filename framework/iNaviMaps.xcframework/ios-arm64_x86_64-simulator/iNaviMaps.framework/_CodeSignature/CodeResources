@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		5+l4gBhbWK53T2ZjmupzpvjVEsU=
+		gk4d9ama/q1CXNDx2g20HMVMPTs=
 		</data>
 		<key>Base.lproj/Foundation.strings</key>
 		<data>
@@ -18,83 +18,83 @@
 		</data>
 		<key>Headers/INVCameraPosition.h</key>
 		<data>
-		gCedF0+tZypQC05APsJHr2f45Wk=
+		yk+zGLbHuPgn3j1hQxRj+Qd9Czg=
 		</data>
 		<key>Headers/INVCameraUpdate.h</key>
 		<data>
-		1nG9OPCPqUP6vg2hrU55yu1bxhY=
+		kFVlFjIYYHZYKesUN+6O2KcDlt4=
 		</data>
 		<key>Headers/INVCameraUpdateParams.h</key>
 		<data>
-		Lmf+reYulW63HXi3XNie/Qw1Xn0=
+		9OoMf4QMmROWswWtNv/uBDIlcYo=
 		</data>
 		<key>Headers/INVCircle.h</key>
 		<data>
-		gp8X2EApGPU3OTuOs+8Yy/6y7O8=
+		Tu1CuzJong+1exBkaLK1x/Vphec=
 		</data>
 		<key>Headers/INVCluster.h</key>
 		<data>
-		GojTF4KeMlVh5dFMKxXdt7NBF8A=
+		srn0KPrb4X+HXs0vfoL3GBPHReM=
 		</data>
 		<key>Headers/INVClusterIconGenerator.h</key>
 		<data>
-		Rm8a7AfZae5JxrC1tu6iBOdjeog=
+		myZRg1ewW/l2c5vgbI69ETv4rO4=
 		</data>
 		<key>Headers/INVClusterItem.h</key>
 		<data>
-		yMP9gI7COYYj2BFWy2gE2bGF1wY=
+		d128mtdtfG+btWxHEucV43A650A=
 		</data>
 		<key>Headers/INVClusterManager.h</key>
 		<data>
-		wR6TuVDL7KjvFDuCURizxFh3PxY=
+		dbrJsErYqRsdhDrVnwHKGDInDSE=
 		</data>
 		<key>Headers/INVClusterManagerDelegate.h</key>
 		<data>
-		NqdshFMnCZJTk3hhMhzBt1bsL6s=
+		zQQAGUJVW/paktxpf6+cQYvGmE0=
 		</data>
 		<key>Headers/INVDefaultClusterIconGenerator.h</key>
 		<data>
-		KNgLOiFOkCcIps6SO/EQdHuWj7k=
+		M36Mx8+dSgo6ry1RO6BeBIQm88Y=
 		</data>
 		<key>Headers/INVFloor.h</key>
 		<data>
-		OtuAAXx3xAVJlqhkQI8XQhChN3E=
+		aBrRlt+MlmgVF7MQsVifG6C43JA=
 		</data>
 		<key>Headers/INVFoundation.h</key>
 		<data>
-		KgbtE3aZTawP87SCok7trWdLaJI=
+		R/ER6/Ob6hTsujDoLN03DGdcsAo=
 		</data>
 		<key>Headers/INVGrs80.h</key>
 		<data>
-		S506Ta/EnrmP5o3E3o3eSW4GeYg=
+		bgLtWR1EIHXilIEUXZskuJwZ0ww=
 		</data>
 		<key>Headers/INVImage.h</key>
 		<data>
-		guYf80ecrJAq9i7YIaqvQSd2kjQ=
+		dqn9KPvDmaqc3J9XTbJtRUelkt4=
 		</data>
 		<key>Headers/INVInfoWindow.h</key>
 		<data>
-		HRCTfsaBPAh9YNQ4JotwqsuUwS4=
+		/G4Rvv1OJbwSikTSDochpumDurw=
 		</data>
 		<key>Headers/INVKatec.h</key>
 		<data>
-		lCYYA3QZSd0dqBbFwO/KflHOJvs=
+		AhYlHIqeJfEFcqJixK46xOsvbRI=
 		</data>
 		<key>Headers/INVLatLng.h</key>
 		<data>
-		P9CIkM4oGxLARy2K10ba/dXvyKs=
+		9vgd6JmIE7UlvNbHe143wkk7N8k=
 		</data>
 		<key>Headers/INVLatLngBounds.h</key>
 		<data>
-		XUsiRKbrwWs3C2tzzhkz3Om9f5s=
+		2aqyuPoXMwgFmDNB4XPIBzwrF78=
 		</data>
 		<key>Headers/INVLine.h</key>
 		<data>
-		i07h4oHUwmmkKVlqkUM2kii/kS4=
+		z7hqhcQPkS3ZAnDhkegpfalrr1c=
 		</data>
 		<key>Headers/INVLocationIcon.h</key>
 		<data>
-		PbSBN0X+btFkcQXZlajmJKtbkuU=
+		WnBRbeT9wjPkCOu3kRfRO4DI1zA=
 		</data>
 		<key>Headers/INVMapOptions.h</key>
 		<data>
@@ -102,7 +102,7 @@
 		</data>
 		<key>Headers/INVMapSdk.h</key>
 		<data>
-		sBN3xz0D8+a5FNkATjM2ONfzeGg=
+		TvYV8XWwloY5Xt9TqCwTjOnX5is=
 		</data>
 		<key>Headers/INVMapStyle.h</key>
 		<data>
@@ -110,59 +110,59 @@
 		</data>
 		<key>Headers/INVMapViewDelegate.h</key>
 		<data>
-		0u5VMZFTNkT+20Hi+/OsZ2mTZZY=
+		MNSzAneUE7Ypex2zBzhkRxT4vvo=
 		</data>
 		<key>Headers/INVMarker.h</key>
 		<data>
-		1S0BShU5iVNJonk0SD4GeBDbm34=
+		JSCeeTard4uWktCZtmRBbUueB/E=
 		</data>
 		<key>Headers/INVMarkerOptions.h</key>
 		<data>
-		ZhTIO0vL+rrJpVQnLk74DkdNgZA=
+		Xaw10U2dEgWWd3b0iRjIkScCHnY=
 		</data>
 		<key>Headers/INVMultiLine.h</key>
 		<data>
-		GxPqeB0PbtW5ncSGjF2smZxASXQ=
+		RVm+qUhgSy3dz0zhmZO3CjzKV0o=
 		</data>
 		<key>Headers/INVPoi.h</key>
 		<data>
-		4YnIfXFqdUtnPLvg4YpAdT82HbI=
+		THCM8zbM9O9tnC7TY7XnicIwd8A=
 		</data>
 		<key>Headers/INVPolygon.h</key>
 		<data>
-		W+aQZuMAMVy6KG+Vt7AV7tC/IGE=
+		vZnJwf9FhcjGUQkbDFSOYuWrSLM=
 		</data>
 		<key>Headers/INVPolyline.h</key>
 		<data>
-		WD8h6MZ1PSXywX9fm1l+wm+58lY=
+		qyUYf1GusBuRxUP+UXFnGNiB1C8=
 		</data>
 		<key>Headers/INVProjection.h</key>
 		<data>
-		fm+eOVJ63XNmJTVpV1xHdaPvisM=
+		voiJGg9eqqPRTQO5JbaiMeVabdk=
 		</data>
 		<key>Headers/INVRoute.h</key>
 		<data>
-		UY1OMssHUe6yNg6EeDjHPK8+0C0=
+		kx+UNsE5uaXMDMHADqGfTpw+KZo=
 		</data>
 		<key>Headers/INVRouteLink.h</key>
 		<data>
-		6/w9JAw/GJDIxOg7iXwcEIaST9c=
+		vQGtYd3JEy8U4Ej2otj7I14Wpqg=
 		</data>
 		<key>Headers/INVShape.h</key>
 		<data>
-		WqJryJqIMjP+SfXOkzve0NW6vJ8=
+		4wvy836DM/vKxnThz0yDr6ORX1U=
 		</data>
 		<key>Headers/INVShapeOptions.h</key>
 		<data>
-		esgrBSL0iPFLsaoWQLvPDK+tm34=
+		aflpdpx/O2wjVN1YPbjvQ5z43KQ=
 		</data>
 		<key>Headers/INVTm.h</key>
 		<data>
-		gIcbHKFJ7JEXO4liVNxf3ZgZzr0=
+		UHdaHvGoNLg/O2y4Xi9XdB5jm2o=
 		</data>
 		<key>Headers/INVUtmk.h</key>
 		<data>
-		z80OzemNIUFsEu3O4TIQVdvrwMg=
+		VqTdMQxs3eQicdsBPXD6D6vz274=
 		</data>
 		<key>Headers/InaviMapView+IBAdditions.h</key>
 		<data>
@@ -170,11 +170,11 @@
 		</data>
 		<key>Headers/InaviMapView.h</key>
 		<data>
-		dWyQxd5Gvfy92g4/Oqi/2lIV2NY=
+		MpUkFSP83M8uR6GAROS0mKqwZvc=
 		</data>
 		<key>Headers/iNaviMaps-Swift.h</key>
 		<data>
-		JNHDWSpvZRqcDKPk2tX+yEsHQLc=
+		G9BzdQVrFYgKZEm8tBiTkyWJb2U=
 		</data>
 		<key>Headers/iNaviMaps.h</key>
 		<data>
@@ -190,51 +190,51 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		QnbOTRse2IBCLCZ7fYjNZuipHdA=
+		w0kkH9OkPhow5MpfLwZM9qe1R+U=
 		</data>
 		<key>LICENSE</key>
 		<data>
-		+C4xQfXFHaw+q7YbLHPUqXEO3rQ=
+		dUPR4rVkJMPVhS+U7ClIa66DfUo=
 		</data>
 		<key>Modules/iNaviMaps.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		X+Ufk7dyN+zG/BI71pOV33rAx48=
+		mJwIyk4SHQCafo8b34JwpTSf2ls=
 		</data>
 		<key>Modules/iNaviMaps.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		II0ZPM5z6VIBkWaTjwWZlHlcVaM=
+		5wxKiQa8ldrNGNgEwbxeFXhqn3w=
 		</data>
 		<key>Modules/iNaviMaps.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		eIznW2sP4DFZpO9X1GQY3T/mfRY=
+		Xl6IMqtnCZxQLwZhi1DJxcI5cng=
 		</data>
 		<key>Modules/iNaviMaps.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		II0ZPM5z6VIBkWaTjwWZlHlcVaM=
+		5wxKiQa8ldrNGNgEwbxeFXhqn3w=
 		</data>
 		<key>Modules/iNaviMaps.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		x1lpkopM7shYDvZ5cscxduL4Td8=
+		QuF0hxeNGFRWGBYFEqeQNqNh2Uo=
 		</data>
 		<key>Modules/iNaviMaps.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		X+Ufk7dyN+zG/BI71pOV33rAx48=
+		mJwIyk4SHQCafo8b34JwpTSf2ls=
 		</data>
 		<key>Modules/iNaviMaps.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		KCu2yQkM+UY7CMBbv8b+JVAMBxE=
+		7eCJs4CM4SowT6sAQI5pQQcYRGY=
 		</data>
 		<key>Modules/iNaviMaps.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		xjGgV4nj6JrtmGjrZIQlyPV5iCc=
+		KMuINe0BRnXp6JGdRSDdF9OId4Y=
 		</data>
 		<key>Modules/iNaviMaps.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		KCu2yQkM+UY7CMBbv8b+JVAMBxE=
+		7eCJs4CM4SowT6sAQI5pQQcYRGY=
 		</data>
 		<key>Modules/iNaviMaps.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		LxGdZa3ktB43YgouoK21qXYZUwQ=
+		KefIl5FiuR5+yvVgWleyu+RkxtE=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -305,7 +305,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			+bXLfXX0229SyWmIuR6J2+wy17+vp6HWdnxuQHXKRkg=
+			BGQebLCTfX/8pZHX/l69t8ysz5ZKVwoGV9f+uH9zgU8=
 			</data>
 		</dict>
 		<key>Base.lproj/Foundation.strings</key>
@@ -326,140 +326,140 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			riiDTP7XamkaprF7tLcWtedrayPzSJjXch24uN94Nao=
+			ZdC9ZEPgIR3Jkt8kNQwgLrY1NtSdWqYYhwHeXhi25LM=
 			</data>
 		</dict>
 		<key>Headers/INVCameraUpdate.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			vGi0306XlspawKUErZFnc591wl8An+U3xP00fdn8LQY=
+			E+w7NXMkSqW+2UWAYA99Ncwx8bLjQeyanezIEhzCPqw=
 			</data>
 		</dict>
 		<key>Headers/INVCameraUpdateParams.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			FJDraTPmuznwLWZZ32PdTV1iRjU+mxNyl8nLNPY2H9g=
+			eruWiB4+T3SaG7cbz41pNXaaPj5UuN/92vd7C4NvL2Y=
 			</data>
 		</dict>
 		<key>Headers/INVCircle.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			4r2xl+CVB/nCurgpB7a8+iJatQSn1Nnxqj+mJFd4Gs0=
+			Ibl/crtv7RdmwTN06vxDI3f3Pk6LFFaL3T4aXNmMHMw=
 			</data>
 		</dict>
 		<key>Headers/INVCluster.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			K6mOQimv+iGew7hzuq1vcHZU8xxmX2g6UhPpoa8zwss=
+			Arc3NOHQp4EFFwPPyWhAw3+CBTpXubsG8GjWkquK/mM=
 			</data>
 		</dict>
 		<key>Headers/INVClusterIconGenerator.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			1EoILxxRhbNUvAdo8L8LC5QeEfxROf5HAUJgXu3xPtg=
+			5fDnlpAooh47SoWKskHqxd/AtycMyI5Aweh87LFegrc=
 			</data>
 		</dict>
 		<key>Headers/INVClusterItem.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			PzLkCTR0hum1TvWS9yw42Z2zkJJvJAKs+4YsdAY1Nn0=
+			+YvUg18Mp4exBzcjWeUwarNvlsCnJB4k4reR4DyZiT4=
 			</data>
 		</dict>
 		<key>Headers/INVClusterManager.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			xyjPhK8SerjohjUy/YN+v1HvsCFS8HhGyUopBdAHf6I=
+			GVhwjrMMGU8voT0tl6aa/s9KD/jvnGnhUzhd5UcLrxM=
 			</data>
 		</dict>
 		<key>Headers/INVClusterManagerDelegate.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			908bNDRrM8skeIc07fftBj2In51jfrXYwTHeFOXYVjM=
+			UO15vrdKkv2LPdeI2E2j+VVyylzzcj26iF/9iPc4RdA=
 			</data>
 		</dict>
 		<key>Headers/INVDefaultClusterIconGenerator.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			kTtrTa2VAJfZaEVXJY3vvQTJ+e0FD0eeKdispmdaHII=
+			hBBfgu9Rollrzd4pvR5FvKWlfo79toMec3d9ndg2ldU=
 			</data>
 		</dict>
 		<key>Headers/INVFloor.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			g91dR4bPON/qrRj60wjseFgHXKJrBSC9vlZdNfJk/lI=
+			96PlkqFLUFqEwte01tfekB1SkeWSU/nqSYMzE3ghv4c=
 			</data>
 		</dict>
 		<key>Headers/INVFoundation.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			XQBvP9eciqPM9OZWn9y2QeuJpEMTvB0H3/DlrJbCSIs=
+			G1DgCFn46Z6lqoVDozQ4eDBn8BwPn01Raads1tK3QFs=
 			</data>
 		</dict>
 		<key>Headers/INVGrs80.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			FvVbj7mgTWFP5QUp1GxSHJ7arR6zTyeyo/i5dSIR69U=
+			HFcfWvih5D1euqCPrPNqggh1WP5RsQj6zwscC8dCxD4=
 			</data>
 		</dict>
 		<key>Headers/INVImage.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			J35/7Wa9Wcw4zVSngJu3cXmoOwwIb8Rf7Exzy/u8Z6o=
+			crOO1URxCalq4EphlIcr5g5pdiOz4AF4q2LVluCMN0E=
 			</data>
 		</dict>
 		<key>Headers/INVInfoWindow.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			zLv4d88jRdz0WxzFFNuaQKVeAZ14aqVT6HhIIhP5w68=
+			IEnBRwuCuwx0Qg1Yow4B0BxdmcwA9DR3KTaiSfVLYng=
 			</data>
 		</dict>
 		<key>Headers/INVKatec.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			5flWazbK0KIuVpZ5k3/GgJfypG9VlxZ2H8x7ItKnx7k=
+			OIzur3Sbd79bXbQNSngcwK9ve1cAM8TnJS0+nULzDLc=
 			</data>
 		</dict>
 		<key>Headers/INVLatLng.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			0CS6tMnG/oy7QbwVXBXpstkaW03tmac+zJvP0Ismed4=
+			EpQWSjBt7GN2EkE2AhOdbeGwXlkLeQpD/m81iRI2hL4=
 			</data>
 		</dict>
 		<key>Headers/INVLatLngBounds.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			WDQ4153uIb0OMFuZzrcPTCZLLWqIxg2VdxY+Oy7VFUk=
+			PREAigL75DUs1QDYgfb3Vab5es7OvaX5UvAaU47TddQ=
 			</data>
 		</dict>
 		<key>Headers/INVLine.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Xfs9fWamMkX/L99Qj5+tfP598NxS8/goAOP/Vpxw2uw=
+			CmVoCa90CjACXZDxPgz3dN6lERLAR2Rgm/4eD8ZUUbY=
 			</data>
 		</dict>
 		<key>Headers/INVLocationIcon.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			vdQbj///NiHIWaziUNC9OTBQZ5/XdYrNvCEPE64B1wA=
+			4ASQ74p3afFtSeUMQgM8tw8zTa+KnCrGDxm75FEslVM=
 			</data>
 		</dict>
 		<key>Headers/INVMapOptions.h</key>
@@ -473,7 +473,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			htrRpOvaP6ZNMPYaaIt2ofrFLv0VNEPuAlTIXF6pVCo=
+			ipWjvHQtlTfeJHPAAU5vJxn/XdDSDYKWGIH/+ATwSPY=
 			</data>
 		</dict>
 		<key>Headers/INVMapStyle.h</key>
@@ -487,98 +487,98 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZzLdtM8dmHSY6Y1RZHeOekDPLqZ38oiVAQOBLLy9u8I=
+			pWTL28gGd9sFKXxjccftiNWfxZlicFFF4lwYYscf9lA=
 			</data>
 		</dict>
 		<key>Headers/INVMarker.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			QLrw92NRgM9t1ZPJvY6CO9nAFrQKgcTu+Op9ai0Q48Y=
+			0W+hA48WoY9vla0iCWUUDVYr3BnEq6dJKPXzUvpGSns=
 			</data>
 		</dict>
 		<key>Headers/INVMarkerOptions.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			alUJ5vxH1OujGJALRBPy9ysYBzfXYpi+tSZWQ1Tp3II=
+			hykWxoQZJyAiBLmJ6RJRFm3bJS9CQyC7fO2lg8eSzTo=
 			</data>
 		</dict>
 		<key>Headers/INVMultiLine.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			pyb/0HAhm7Doj9X5Fuhai2SUE3jOz+IpYg0n67lGy8Y=
+			SLoP0Csqvk6Q94n2ZL0lzuHNglsxWn3R3qcxCjYcTxw=
 			</data>
 		</dict>
 		<key>Headers/INVPoi.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			dFV4TaQh08DMWHTSybtQfEY9S2WZ3KPKs2SGV1U6T4s=
+			744mI2HGt5vjaysTXKlxQHfspsqNTiL076uEL00bC0w=
 			</data>
 		</dict>
 		<key>Headers/INVPolygon.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+peMV/zpTNBGCiijLO56H2ZuoLxKtbOK8YVUXKwJBwE=
+			UCsq7VLlABptz62SF5BCRrL6EYJwcJydyO6lDZONQTo=
 			</data>
 		</dict>
 		<key>Headers/INVPolyline.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			fwwvgg+aIpC334xDtFQqRC4USUcTcfcOlDoJdQg44PE=
+			GvyDu9lZd6OU2Zfp0fwClO7akIDAJC3kJUmQgea/ECU=
 			</data>
 		</dict>
 		<key>Headers/INVProjection.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			5aHV6GbPE9Wzd2RbATFPBR0QSKHf3Pr1uoMilvmdLwk=
+			R9DqXq9nByAq7EQGxktjVWD+aCsNklXKZsZQOm6YINg=
 			</data>
 		</dict>
 		<key>Headers/INVRoute.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			uGwcaOyF6UkOSGto0ELg/2SHAib+tjLVTEQkznF7r9s=
+			UZ/BlD3RSWsJArQywwydjOVFyDbF4alZr4FfrXyWjig=
 			</data>
 		</dict>
 		<key>Headers/INVRouteLink.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			VZ4qkLeru2DWaGAoG2PdjJ96E60VIgNd+lo6rGzQItU=
+			4UNPoqjEY8CzAN0UZNsgTnXoff+juWDeaF1vJ4lZFpM=
 			</data>
 		</dict>
 		<key>Headers/INVShape.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			9em9rYTFHwt/bBIux9b9lpRlpPpFW3g6uJlbwwEhUGg=
+			YwfdUTRXiL0U+VHi/+MrFo+i/yVPx245v9uEAxwryF8=
 			</data>
 		</dict>
 		<key>Headers/INVShapeOptions.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			nWXL7aCT8y6kMCFCl+6Zd77MufDm9gaVccj7w2tyQls=
+			v4ytdX3g3sBUN4gRwLASwpDXBJ4jLHZlffMffhqj1kk=
 			</data>
 		</dict>
 		<key>Headers/INVTm.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			WAvS9ncSgwHIrdlsKPIH7J8pWy9Q/DJ1BqqlWWVxxI0=
+			Pcf3c/XUGqUvQNXV1ZuliCOztA2muiSaelq97kjSw7g=
 			</data>
 		</dict>
 		<key>Headers/INVUtmk.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			XvYVedqB2TzIzVjqpQydAhuJ6DAQcA2f+BFj/oqOm/M=
+			GgsfoDx9bsX2YWWv8K58ZCQ9l7hGkh08KdwUy7dfzjA=
 			</data>
 		</dict>
 		<key>Headers/InaviMapView+IBAdditions.h</key>
@@ -592,14 +592,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			xkS6q6Vvsgdf4WnYdZHwqBSTe2MPNyFRSCDs1mHlKsw=
+			iBxJ3FTwhYiPeA8vqtmr58mbtfvpTHjg5xwXU2zKg8A=
 			</data>
 		</dict>
 		<key>Headers/iNaviMaps-Swift.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			s1B7AWebV0To5cMjEOtZ5hR0zsBZEhCorg/MxTzEPuM=
+			ILYG+nQ/xrDUEbrSwstwW5jUmM0TuUR+xRJQbUzL9lU=
 			</data>
 		</dict>
 		<key>Headers/iNaviMaps.h</key>
@@ -627,77 +627,77 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			2HCUjNxv/mAAhqog3V3ZM+IxaDOv429YJozwLlPkrl8=
+			t8igp+PtmrCMUPNFPlNvssWrWquI+57o77hfJgWfIks=
 			</data>
 		</dict>
 		<key>Modules/iNaviMaps.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			6oYVlVIV7bVOnRGwRmP2boZcEnAAja64AkQDJk/om4c=
+			8l5q05KmFRsbU1rbP1H/9sZ4JagZ2oTUtq2CTIWzPBU=
 			</data>
 		</dict>
 		<key>Modules/iNaviMaps.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			FlkC0Zv3E3SsxIzZG3GonGsCcrF5HuiinC8RvWXGE70=
+			QEZSoQZALKO94mBV9NZXQGrFbupOOVC6tM1EtGRPNQ8=
 			</data>
 		</dict>
 		<key>Modules/iNaviMaps.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			GnjF/MHVoBnuD2JcDjFdsfWn4gp3gBVmcIG4f3m6/2s=
+			jltO/YaauJzHa363SeYN1gxcv2fHxmUqj+6RnIMkuUo=
 			</data>
 		</dict>
 		<key>Modules/iNaviMaps.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			FlkC0Zv3E3SsxIzZG3GonGsCcrF5HuiinC8RvWXGE70=
+			QEZSoQZALKO94mBV9NZXQGrFbupOOVC6tM1EtGRPNQ8=
 			</data>
 		</dict>
 		<key>Modules/iNaviMaps.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			VLbBwOwMaC2hLv0+B9TpalnUWFCMqb0zCy73l6M8Cfk=
+			zGcSOLUfTt5XstZV4MGLqurAuNH7hFC6tDtV256mRVw=
 			</data>
 		</dict>
 		<key>Modules/iNaviMaps.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			6oYVlVIV7bVOnRGwRmP2boZcEnAAja64AkQDJk/om4c=
+			8l5q05KmFRsbU1rbP1H/9sZ4JagZ2oTUtq2CTIWzPBU=
 			</data>
 		</dict>
 		<key>Modules/iNaviMaps.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			qbcrl6oP2nSxSe/0h0QlLbsBvQFYrbVm8gwTCvh4KAA=
+			a66s7xNEpEnEgmeVEiCotBymJNv5OX8WxD3J1f2eJVI=
 			</data>
 		</dict>
 		<key>Modules/iNaviMaps.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			MkLLf/FoIESAKeuTn7Svzto3in5np6hqwAJHsBklAU8=
+			hW0mQhqmsv1YWl/AmdD7G5bwKkZHBG6alAA2LUj/DOk=
 			</data>
 		</dict>
 		<key>Modules/iNaviMaps.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			qbcrl6oP2nSxSe/0h0QlLbsBvQFYrbVm8gwTCvh4KAA=
+			a66s7xNEpEnEgmeVEiCotBymJNv5OX8WxD3J1f2eJVI=
 			</data>
 		</dict>
 		<key>Modules/iNaviMaps.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			p5LmK3VbWQnniqRMmisuJbDqdJGTYYi8otJfoyfpOlU=
+			gNKd/hngSafXrGITpvJUlEKXeza+nCJK4XDDVfCkLcQ=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
