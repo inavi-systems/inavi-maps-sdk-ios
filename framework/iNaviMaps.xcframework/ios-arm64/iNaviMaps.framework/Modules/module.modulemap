@@ -7,5 +7,4 @@ framework module iNaviMaps {
 
 module iNaviMaps.Swift {
   header "iNaviMaps-Swift.h"
-  requires objc
 }
