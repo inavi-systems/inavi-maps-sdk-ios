@@ -291,6 +291,13 @@
         "conformances": [
           {
             "kind": "Conformance",
+            "name": "CVAttachmentValueRepresentable",
+            "printedName": "CVAttachmentValueRepresentable",
+            "usr": "s:9CoreVideo30CVAttachmentValueRepresentableP",
+            "mangledName": "$s9CoreVideo30CVAttachmentValueRepresentableP"
+          },
+          {
+            "kind": "Conformance",
             "name": "_FormatSpecifiable",
             "printedName": "_FormatSpecifiable",
             "children": [
@@ -373,6 +380,20 @@
             "printedName": "Comparable",
             "usr": "s:SL",
             "mangledName": "$sSL"
+          },
+          {
+            "kind": "Conformance",
+            "name": "ConvertibleFromBytes",
+            "printedName": "ConvertibleFromBytes",
+            "usr": "s:s20ConvertibleFromBytesP",
+            "mangledName": "$ss20ConvertibleFromBytesP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "ConvertibleToBytes",
+            "printedName": "ConvertibleToBytes",
+            "usr": "s:s18ConvertibleToBytesP",
+            "mangledName": "$ss18ConvertibleToBytesP"
           },
           {
             "kind": "Conformance",
@@ -990,6 +1011,13 @@
         "conformances": [
           {
             "kind": "Conformance",
+            "name": "CVAttachmentValueRepresentable",
+            "printedName": "CVAttachmentValueRepresentable",
+            "usr": "s:9CoreVideo30CVAttachmentValueRepresentableP",
+            "mangledName": "$s9CoreVideo30CVAttachmentValueRepresentableP"
+          },
+          {
+            "kind": "Conformance",
             "name": "_FormatSpecifiable",
             "printedName": "_FormatSpecifiable",
             "children": [
@@ -1066,6 +1094,20 @@
             "printedName": "Comparable",
             "usr": "s:SL",
             "mangledName": "$sSL"
+          },
+          {
+            "kind": "Conformance",
+            "name": "ConvertibleFromBytes",
+            "printedName": "ConvertibleFromBytes",
+            "usr": "s:s20ConvertibleFromBytesP",
+            "mangledName": "$ss20ConvertibleFromBytesP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "ConvertibleToBytes",
+            "printedName": "ConvertibleToBytes",
+            "usr": "s:s18ConvertibleToBytesP",
+            "mangledName": "$ss18ConvertibleToBytesP"
           },
           {
             "kind": "Conformance",
@@ -1447,6 +1489,13 @@
             ],
             "usr": "s:16CoreTransferable0B0P",
             "mangledName": "$s16CoreTransferable0B0P"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVAttachmentValueRepresentable",
+            "printedName": "CVAttachmentValueRepresentable",
+            "usr": "s:9CoreVideo30CVAttachmentValueRepresentableP",
+            "mangledName": "$s9CoreVideo30CVAttachmentValueRepresentableP"
           },
           {
             "kind": "Conformance",
@@ -2005,6 +2054,13 @@
         "conformances": [
           {
             "kind": "Conformance",
+            "name": "CVAttachmentValueRepresentable",
+            "printedName": "CVAttachmentValueRepresentable",
+            "usr": "s:9CoreVideo30CVAttachmentValueRepresentableP",
+            "mangledName": "$s9CoreVideo30CVAttachmentValueRepresentableP"
+          },
+          {
+            "kind": "Conformance",
             "name": "BitwiseCopyable",
             "printedName": "BitwiseCopyable",
             "usr": "s:s15BitwiseCopyableP",
@@ -2016,6 +2072,13 @@
             "printedName": "CVarArg",
             "usr": "s:s7CVarArgP",
             "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "ConvertibleToBytes",
+            "printedName": "ConvertibleToBytes",
+            "usr": "s:s18ConvertibleToBytesP",
+            "mangledName": "$ss18ConvertibleToBytesP"
           },
           {
             "kind": "Conformance",

@@ -6,7 +6,7 @@ import PackageDescription
 let package = Package(
     name: "iNaviMaps",
     platforms: [
-        .iOS(.v13)
+        .iOS(.v15)
     ],
     products: [
         .library(
